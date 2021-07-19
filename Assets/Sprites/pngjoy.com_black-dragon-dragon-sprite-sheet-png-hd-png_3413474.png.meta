@@ -1,0 +1,3308 @@
+fileFormatVersion: 2
+guid: 4bbd8761bbb019b47aefad9f3f276aad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7053425911463865755
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_0
+  - first:
+      213: 1146222158362530020
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_1
+  - first:
+      213: -3179753563468631435
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_2
+  - first:
+      213: -4893980530849616396
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_3
+  - first:
+      213: 1071636215751154966
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_4
+  - first:
+      213: 7409364155252226029
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_5
+  - first:
+      213: -4753439659890221235
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_6
+  - first:
+      213: -8437848210991773846
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_7
+  - first:
+      213: -8638910033320136837
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_8
+  - first:
+      213: 2620554795105547445
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_9
+  - first:
+      213: -2217882358165548769
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_10
+  - first:
+      213: 2517181339453600140
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_11
+  - first:
+      213: -7476132384692755573
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_12
+  - first:
+      213: -3634373926898886028
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_13
+  - first:
+      213: 2926862445212485959
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_14
+  - first:
+      213: 691056814030275841
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_15
+  - first:
+      213: -3241705743209387152
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_16
+  - first:
+      213: -6999174514554138176
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_17
+  - first:
+      213: -5018392903687063408
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_18
+  - first:
+      213: -8005910135497213353
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_19
+  - first:
+      213: 1484782885024361990
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_20
+  - first:
+      213: -5084272065774311477
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_21
+  - first:
+      213: -1975835421609057827
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_22
+  - first:
+      213: 1722086448214275223
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_23
+  - first:
+      213: -1984087159942104338
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_24
+  - first:
+      213: -2326352859920860567
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_25
+  - first:
+      213: -4786096403353573009
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_26
+  - first:
+      213: 7387999068223550847
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_27
+  - first:
+      213: 9148244065891659513
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_28
+  - first:
+      213: -7898931147522181812
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_29
+  - first:
+      213: -3284783068959942881
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_30
+  - first:
+      213: 2722226622750487515
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_31
+  - first:
+      213: -7509609938813254813
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_32
+  - first:
+      213: -2029125136478269190
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_33
+  - first:
+      213: 1556811634597431889
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_34
+  - first:
+      213: 2799360799945914639
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_35
+  - first:
+      213: 1785218538243837971
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_36
+  - first:
+      213: -2273759245672855071
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_37
+  - first:
+      213: 6032444443645978027
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_38
+  - first:
+      213: 5130992950281395157
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_39
+  - first:
+      213: -7281560337813074382
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_40
+  - first:
+      213: 8771787774691600972
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_41
+  - first:
+      213: 7471071996130813470
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_42
+  - first:
+      213: 9189184320956505248
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_43
+  - first:
+      213: 2052123223074576026
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_44
+  - first:
+      213: -5132576205895462726
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_45
+  - first:
+      213: -5130573080164193156
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_46
+  - first:
+      213: 7232649332289391809
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_47
+  - first:
+      213: -884169662175642420
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_48
+  - first:
+      213: -2456176149978377974
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_49
+  - first:
+      213: 1698617831084894547
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_50
+  - first:
+      213: 5650510557599246233
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_51
+  - first:
+      213: -6318669405343105694
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_52
+  - first:
+      213: 2406734096962489739
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_53
+  - first:
+      213: 4944767495709240815
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_54
+  - first:
+      213: 5305582019875539716
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_55
+  - first:
+      213: 6240616671164177928
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_56
+  - first:
+      213: 2348219894315301766
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_57
+  - first:
+      213: 429668625436766577
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_58
+  - first:
+      213: 1060196074915258484
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_59
+  - first:
+      213: -6792823301327219202
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_60
+  - first:
+      213: 3520427701219645632
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_61
+  - first:
+      213: 7880158025094795377
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_62
+  - first:
+      213: -3467649031580810914
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_63
+  - first:
+      213: 1164249927957503388
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_64
+  - first:
+      213: -8611438330027877151
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_65
+  - first:
+      213: -6414831657015462462
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_66
+  - first:
+      213: 8228625977618376279
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_67
+  - first:
+      213: 3271995146378558148
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_68
+  - first:
+      213: 158374224883765061
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_69
+  - first:
+      213: 101180147069675369
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_70
+  - first:
+      213: 6399532666883057421
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_71
+  - first:
+      213: -5678241082054981471
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_72
+  - first:
+      213: -6334456910021242616
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_73
+  - first:
+      213: 5744968985005392674
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_74
+  - first:
+      213: -1773866620440822210
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_75
+  - first:
+      213: 5945729072942418013
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_76
+  - first:
+      213: 4322921124643028137
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_77
+  - first:
+      213: -1308739187541757691
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_78
+  - first:
+      213: 2943398170924521521
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_79
+  - first:
+      213: 8892119338581491225
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_80
+  - first:
+      213: -4569468877831633143
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_81
+  - first:
+      213: 7944585253582994530
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_82
+  - first:
+      213: -1620462827455527010
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_83
+  - first:
+      213: 7178996232292627533
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_84
+  - first:
+      213: 5907523809049031139
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_85
+  - first:
+      213: -8794385292987696322
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_86
+  - first:
+      213: -1289418807988476353
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_87
+  - first:
+      213: 495495700940005644
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_88
+  - first:
+      213: 7627454121804841469
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_89
+  - first:
+      213: -5549062943943581427
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_90
+  - first:
+      213: -3822869879907884951
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_91
+  - first:
+      213: 2224927719460561921
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_92
+  - first:
+      213: -2947938557453349050
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_93
+  - first:
+      213: -3543739416682836389
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_94
+  - first:
+      213: -3563127061720944740
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_95
+  - first:
+      213: 261068481174611287
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_96
+  - first:
+      213: -1617515497290815195
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_97
+  - first:
+      213: 5376955425940580185
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_98
+  - first:
+      213: -8388275339918395502
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_99
+  - first:
+      213: 6564156931664227467
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_100
+  - first:
+      213: -6986012236468627982
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_101
+  - first:
+      213: 5470162963864915482
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_102
+  - first:
+      213: -3345625158604319722
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_103
+  - first:
+      213: 7268134437904193138
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_104
+  - first:
+      213: -6423373927038336481
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_105
+  - first:
+      213: 4950151148913441914
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_106
+  - first:
+      213: 1660221013185943883
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_107
+  - first:
+      213: 8533363083474916992
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_108
+  - first:
+      213: 7930389244076829575
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_109
+  - first:
+      213: 7313058722403605609
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_110
+  - first:
+      213: -9218243525268788808
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_111
+  - first:
+      213: -1544737558264983669
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_112
+  - first:
+      213: -5236783912865956489
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_113
+  - first:
+      213: 7970790169682569579
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_114
+  - first:
+      213: 1582102089630241949
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_115
+  - first:
+      213: -4539288796205746288
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_116
+  - first:
+      213: -974622534573119069
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_117
+  - first:
+      213: -2084858847738182905
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_118
+  - first:
+      213: 5481990875971989069
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_119
+  - first:
+      213: -7820668268286199162
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_120
+  - first:
+      213: 223087675516455612
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_121
+  - first:
+      213: 7157483214535850132
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_122
+  - first:
+      213: 7329514186745116895
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_123
+  - first:
+      213: 643069349053191311
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_124
+  - first:
+      213: -3811851335514952708
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_125
+  - first:
+      213: -737478544545939957
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_126
+  - first:
+      213: 5932366704241561688
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_127
+  - first:
+      213: 7285486614183287668
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_128
+  - first:
+      213: 9058626027852417935
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_129
+  - first:
+      213: -8398752596498616857
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_130
+  - first:
+      213: -8833293750023413458
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_131
+  - first:
+      213: 5079859609033764300
+    second: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_132
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1137
+        width: 89
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9de65eee7dc2e160800000000000000
+      internalID: 7053425911463865755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1138
+        width: 89
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e051e6eaf238ef00800000000000000
+      internalID: 1146222158362530020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1138
+        width: 90
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5727b282bfe3fd3d0800000000000000
+      internalID: -3179753563468631435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_3
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1138
+        width: 86
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fde709f2a6151cb0800000000000000
+      internalID: -4893980530849616396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_4
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1138
+        width: 86
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d9a40e5773fde00800000000000000
+      internalID: 1071636215751154966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_5
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1140
+        width: 89
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de73255517953d660800000000000000
+      internalID: 7409364155252226029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_6
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1137
+        width: 102
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f5dfa60d3680eb0800000000000000
+      internalID: -4753439659890221235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_7
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1143
+        width: 100
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a678b2bf1cdb6ea80800000000000000
+      internalID: -8437848210991773846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_8
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1138
+        width: 97
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f2569781d6c1880800000000000000
+      internalID: -8638910033320136837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_9
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1142
+        width: 169
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b476bca3b41e5420800000000000000
+      internalID: 2620554795105547445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_10
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1146
+        width: 184
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11dfeffebf7831e0800000000000000
+      internalID: -2217882358165548769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_11
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1147
+        width: 186
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81bf557713dee220800000000000000
+      internalID: 2517181339453600140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_12
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1146
+        width: 169
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b832894d4317f3890800000000000000
+      internalID: -7476132384692755573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_13
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1141
+        width: 133
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a10425b2c109dc0800000000000000
+      internalID: -3634373926898886028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_14
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 1159
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749425103ed4e9820800000000000000
+      internalID: 2926862445212485959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_15
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 1195
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10543efc280279900800000000000000
+      internalID: 691056814030275841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_16
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 1191
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b29a54dc52303d0800000000000000
+      internalID: -3241705743209387152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_17
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 1188
+        width: 66
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1980bbcdfedde90800000000000000
+      internalID: -6999174514554138176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_18
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 1173
+        width: 32
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09834602e361b5ab0800000000000000
+      internalID: -5018392903687063408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_19
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 1173
+        width: 58
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a3dfd162b45e090800000000000000
+      internalID: -8005910135497213353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_20
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 1173
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ee47eca220b9410800000000000000
+      internalID: 1484782885024361990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_21
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 1170
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7a41a6e790179b0800000000000000
+      internalID: -5084272065774311477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_22
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 1173
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1ab58072c6494e0800000000000000
+      internalID: -1975835421609057827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_23
+      rect:
+        serializedVersion: 2
+        x: 2489
+        y: 1170
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794735a208416e710800000000000000
+      internalID: 1722086448214275223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_24
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 1173
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeabc3c7d3b1774e0800000000000000
+      internalID: -1984087159942104338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_25
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 1155
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96af332466227bfd0800000000000000
+      internalID: -2326352859920860567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_26
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 1154
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69e551ddae549db0800000000000000
+      internalID: -4786096403353573009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_27
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 1152
+        width: 81
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75b16e5202778660800000000000000
+      internalID: 7387999068223550847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_28
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 1160
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe2c0a228715fe70800000000000000
+      internalID: 9148244065891659513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_29
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 1155
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45fbaeb8fb516290800000000000000
+      internalID: -7898931147522181812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_30
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 1155
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17dc6ac33b1a62d0800000000000000
+      internalID: -3284783068959942881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_31
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 942
+        width: 134
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3772fb0ba47c520800000000000000
+      internalID: 2722226622750487515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_32
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 942
+        width: 179
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3630b4b5c8188c790800000000000000
+      internalID: -7509609938813254813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_33
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 954
+        width: 178
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0956b607917d3e0800000000000000
+      internalID: -2029125136478269190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_34
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 965
+        width: 179
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a006eeee7ea9510800000000000000
+      internalID: 1556811634597431889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_35
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 964
+        width: 181
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09fdeed0d359d620800000000000000
+      internalID: 2799360799945914639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_36
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 950
+        width: 182
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31057725dce56c810800000000000000
+      internalID: 1785218538243837971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_37
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 952
+        width: 158
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9c8e0530cf170e0800000000000000
+      internalID: -2273759245672855071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_38
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 950
+        width: 143
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba52cce924c87b350800000000000000
+      internalID: 6032444443645978027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_39
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 947
+        width: 137
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db5e8237e2f43740800000000000000
+      internalID: 5130992950281395157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_40
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 947
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e041eb373b2fa90800000000000000
+      internalID: -7281560337813074382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_41
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 936
+        width: 94
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a6b939186abb970800000000000000
+      internalID: 8771787774691600972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_42
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 1006
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16eeb4a5649ea760800000000000000
+      internalID: 7471071996130813470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_43
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 1006
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac933a147a868f70800000000000000
+      internalID: 9189184320956505248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_44
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 1008
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9690b2e23b9a7c10800000000000000
+      internalID: 2052123223074576026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_45
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 1008
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab09af0622d65c8b0800000000000000
+      internalID: -5132576205895462726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_46
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 730
+        width: 131
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ca1ae67fa8cc8b0800000000000000
+      internalID: -5130573080164193156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_47
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 871
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc431c5f388f5460800000000000000
+      internalID: 7232649332289391809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_48
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 747
+        width: 126
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccf7d4706ccab3f0800000000000000
+      internalID: -884169662175642420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_49
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 739
+        width: 130
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0190c21ec8e9edd0800000000000000
+      internalID: -2456176149978377974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_50
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 782
+        width: 240
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359a5feeae3b29710800000000000000
+      internalID: 1698617831084894547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_51
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 730
+        width: 104
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9972c491a65aa6e40800000000000000
+      internalID: 5650510557599246233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_52
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 725
+        width: 120
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d356157a39f48a0800000000000000
+      internalID: -6318669405343105694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_53
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 733
+        width: 124
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d0546e8ef666120800000000000000
+      internalID: 2406734096962489739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_54
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 740
+        width: 133
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feda5aeb6d75f9440800000000000000
+      internalID: 4944767495709240815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_55
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 862
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b8165acb631a940800000000000000
+      internalID: 5305582019875539716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_56
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 737
+        width: 106
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e1f185ccf1b9650800000000000000
+      internalID: 6240616671164177928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_57
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 842
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b3b2f6d8d869020800000000000000
+      internalID: 2348219894315301766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_58
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 845
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171f94e965d76f500800000000000000
+      internalID: 429668625436766577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_59
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 746
+        width: 107
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470669586b296be00800000000000000
+      internalID: 1060196074915258484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_60
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 840
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef51566823b0bb1a0800000000000000
+      internalID: -6792823301327219202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_61
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 831
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c854ac97521bd030800000000000000
+      internalID: 3520427701219645632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_62
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 823
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17018b319f1fb5d60800000000000000
+      internalID: 7880158025094795377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_63
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 748
+        width: 98
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5106e2049f60efc0800000000000000
+      internalID: -3467649031580810914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_64
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 818
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d5ea9142f382010800000000000000
+      internalID: 1164249927957503388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_65
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 747
+        width: 90
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec5185d6760e7880800000000000000
+      internalID: -8611438330027877151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_66
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 509
+        width: 253
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5b9ad5890f9f6a0800000000000000
+      internalID: -6414831657015462462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_67
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 663
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756ae71cab3f13270800000000000000
+      internalID: 8228625977618376279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_68
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 521
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca32b6ff36786d20800000000000000
+      internalID: 3271995146378558148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_69
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 524
+        width: 187
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f46c7b488a23200800000000000000
+      internalID: 158374224883765061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_70
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 522
+        width: 253
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967e864cec6776100800000000000000
+      internalID: 101180147069675369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_71
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 513
+        width: 202
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07a21aed05bfc850800000000000000
+      internalID: 6399532666883057421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_72
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 526
+        width: 159
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8451b02d5d231b0800000000000000
+      internalID: -5678241082054981471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_73
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 500
+        width: 205
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8015a21700d7718a0800000000000000
+      internalID: -6334456910021242616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_74
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 513
+        width: 165
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22302ec8ada3abf40800000000000000
+      internalID: 5744968985005392674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_75
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 648
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3eb3b105b5f167e0800000000000000
+      internalID: -1773866620440822210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_76
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 524
+        width: 106
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58027b0719738250800000000000000
+      internalID: 5945729072942418013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_77
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 528
+        width: 159
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac316aebd91efb30800000000000000
+      internalID: 4322921124643028137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_78
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 526
+        width: 125
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501b0f694ac66dde0800000000000000
+      internalID: -1308739187541757691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_79
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 511
+        width: 189
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1389d7aaa0d09d820800000000000000
+      internalID: 2943398170924521521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 143
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ef78c0d67276b70800000000000000
+      internalID: 8892119338581491225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_81
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 293
+        width: 174
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90784a4044cf590c0800000000000000
+      internalID: -4569468877831633143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_82
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 294
+        width: 201
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cfe972236d04e60800000000000000
+      internalID: 7944585253582994530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_83
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 292
+        width: 209
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97c9cdd4a5f289e0800000000000000
+      internalID: -1620462827455527010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_84
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 290
+        width: 222
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d447bad890be0a360800000000000000
+      internalID: 7178996232292627533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_85
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 289
+        width: 153
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1b78cda9dbbf150800000000000000
+      internalID: 5907523809049031139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_86
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 308
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b7c81bb2114f580800000000000000
+      internalID: -8794385292987696322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_87
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 277
+        width: 137
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36a32ffc601b1ee0800000000000000
+      internalID: -1289418807988476353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_88
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 286
+        width: 173
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01234af6ba50e600800000000000000
+      internalID: 495495700940005644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_89
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 287
+        width: 222
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df144ce9c192ad960800000000000000
+      internalID: 7627454121804841469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_90
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 352
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01a5f517a4cdf2b0800000000000000
+      internalID: -5549062943943581427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_91
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 287
+        width: 235
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960ec81491072fac0800000000000000
+      internalID: -3822869879907884951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_92
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 277
+        width: 181
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104ed5109f780ee10800000000000000
+      internalID: 2224927719460561921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_93
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 295
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fc0573081d617d0800000000000000
+      internalID: -2947938557453349050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_94
+      rect:
+        serializedVersion: 2
+        x: 2418
+        y: 282
+        width: 148
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ec11ca6cb12dec0800000000000000
+      internalID: -3543739416682836389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_95
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 349
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9faa8cc0da3d8ec0800000000000000
+      internalID: -3563127061720944740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_96
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 347
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755a67286608f9300800000000000000
+      internalID: 261068481174611287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_97
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 286
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529aa45a93e6d89e0800000000000000
+      internalID: -1617515497290815195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_98
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 336
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9572c48b878ce9a40800000000000000
+      internalID: 5376955425940580185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_99
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 318
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297bef5750cd69b80800000000000000
+      internalID: -8388275339918395502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_100
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 292
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ca3c173f1981b50800000000000000
+      internalID: 6564156931664227467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_101
+      rect:
+        serializedVersion: 2
+        x: 2606
+        y: 280
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f551c862e2bc0f90800000000000000
+      internalID: -6986012236468627982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_102
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 73
+        width: 137
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e8aa4cb3ce9eb40800000000000000
+      internalID: 5470162963864915482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_103
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 78
+        width: 147
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61497c5e4a3f191d0800000000000000
+      internalID: -3345625158604319722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_104
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 81
+        width: 134
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276101753c99dd460800000000000000
+      internalID: 7268134437904193138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_105
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 79
+        width: 170
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12cf5322779bd6a0800000000000000
+      internalID: -6423373927038336481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_106
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 58
+        width: 199
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c3a7f2e3872b440800000000000000
+      internalID: 4950151148913441914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_107
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 0
+        width: 215
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49569b173a4a0710800000000000000
+      internalID: 1660221013185943883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_108
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 46
+        width: 198
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08654f143889c6670800000000000000
+      internalID: 8533363083474916992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_109
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 73
+        width: 141
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b27cf10076e0e60800000000000000
+      internalID: 7930389244076829575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_110
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 73
+        width: 112
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c507a69243d7560800000000000000
+      internalID: 7313058722403605609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_111
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 70
+        width: 170
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b92f47aa58321080800000000000000
+      internalID: -9218243525268788808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_112
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 8
+        width: 199
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f4968006dff8ae0800000000000000
+      internalID: -1544737558264983669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_113
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 0
+        width: 215
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77df424e6c43357b0800000000000000
+      internalID: -5236783912865956489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_114
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 0
+        width: 198
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69ea13ad6fed9e60800000000000000
+      internalID: 7970790169682569579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_115
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 69
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9450dad771c4f510800000000000000
+      internalID: 1582102089630241949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_116
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 63
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097fe39d3e43101c0800000000000000
+      internalID: -4539288796205746288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_117
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 70
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9ada4f7f17972f0800000000000000
+      internalID: -974622534573119069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_118
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 69
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7034cbd8ce71113e0800000000000000
+      internalID: -2084858847738182905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_119
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 65
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e2e3828a1f31c40800000000000000
+      internalID: 5481990875971989069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_120
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 55
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ab1aa45a7677390800000000000000
+      internalID: -7820668268286199162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_121
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 65
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba0de41f01981300800000000000000
+      internalID: 223087675516455612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_122
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 64
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498fa38cf0d745360800000000000000
+      internalID: 7157483214535850132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_123
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 59
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8f025c15aa7b560800000000000000
+      internalID: 7329514186745116895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_124
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 45
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84d1447a24ace800800000000000000
+      internalID: 643069349053191311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_125
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 61
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb680a0865991bc0800000000000000
+      internalID: -3811851335514952708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_126
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 59
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0efddacb23f3c5f0800000000000000
+      internalID: -737478544545939957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_127
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 50
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8505ca32610045250800000000000000
+      internalID: 5932366704241561688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_128
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 46
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b1246b97f3b1560800000000000000
+      internalID: 7285486614183287668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_129
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 42
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b404fa064b6bd70800000000000000
+      internalID: 9058626027852417935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_130
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 41
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed6f411303a17b80800000000000000
+      internalID: -8398752596498616857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_131
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 42
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e212d299226d96580800000000000000
+      internalID: -8833293750023413458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_black-dragon-dragon-sprite-sheet-png-hd-png_3413474_132
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdef4176694f7640800000000000000
+      internalID: 5079859609033764300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

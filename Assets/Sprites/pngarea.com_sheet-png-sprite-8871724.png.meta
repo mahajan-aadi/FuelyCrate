@@ -1,0 +1,1991 @@
+fileFormatVersion: 2
+guid: 42206bd9e5fcf1b4d8702c98cc9365d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8633983955888674422
+    second: pngarea.com_sheet-png-sprite-8871724_0
+  - first:
+      213: 4547715587323175165
+    second: pngarea.com_sheet-png-sprite-8871724_1
+  - first:
+      213: 5980682814769359449
+    second: pngarea.com_sheet-png-sprite-8871724_2
+  - first:
+      213: 4270950536345370704
+    second: pngarea.com_sheet-png-sprite-8871724_3
+  - first:
+      213: -7280786283181047567
+    second: pngarea.com_sheet-png-sprite-8871724_4
+  - first:
+      213: -1810883354446097002
+    second: pngarea.com_sheet-png-sprite-8871724_5
+  - first:
+      213: 914343471737606207
+    second: pngarea.com_sheet-png-sprite-8871724_6
+  - first:
+      213: 8943819239558100698
+    second: pngarea.com_sheet-png-sprite-8871724_7
+  - first:
+      213: -1236073281635634913
+    second: pngarea.com_sheet-png-sprite-8871724_8
+  - first:
+      213: 8913012156002100421
+    second: pngarea.com_sheet-png-sprite-8871724_9
+  - first:
+      213: 448236856349636811
+    second: pngarea.com_sheet-png-sprite-8871724_10
+  - first:
+      213: -111619211570624682
+    second: pngarea.com_sheet-png-sprite-8871724_11
+  - first:
+      213: -7027832319815171671
+    second: pngarea.com_sheet-png-sprite-8871724_12
+  - first:
+      213: 3694102092640972811
+    second: pngarea.com_sheet-png-sprite-8871724_13
+  - first:
+      213: -3343176367822507817
+    second: pngarea.com_sheet-png-sprite-8871724_14
+  - first:
+      213: 7607913150994727437
+    second: pngarea.com_sheet-png-sprite-8871724_15
+  - first:
+      213: 4031619337602120252
+    second: pngarea.com_sheet-png-sprite-8871724_16
+  - first:
+      213: 321129621465668036
+    second: pngarea.com_sheet-png-sprite-8871724_17
+  - first:
+      213: 7881476437658739971
+    second: pngarea.com_sheet-png-sprite-8871724_18
+  - first:
+      213: 2525485778870414204
+    second: pngarea.com_sheet-png-sprite-8871724_19
+  - first:
+      213: -3149957666077534679
+    second: pngarea.com_sheet-png-sprite-8871724_20
+  - first:
+      213: 7681200944663944582
+    second: pngarea.com_sheet-png-sprite-8871724_21
+  - first:
+      213: -6384912823241255618
+    second: pngarea.com_sheet-png-sprite-8871724_22
+  - first:
+      213: -3697904741846734541
+    second: pngarea.com_sheet-png-sprite-8871724_23
+  - first:
+      213: 6980129215762574630
+    second: pngarea.com_sheet-png-sprite-8871724_24
+  - first:
+      213: 3911320005632741484
+    second: pngarea.com_sheet-png-sprite-8871724_25
+  - first:
+      213: 2347704838996205721
+    second: pngarea.com_sheet-png-sprite-8871724_26
+  - first:
+      213: 7594412663456866815
+    second: pngarea.com_sheet-png-sprite-8871724_27
+  - first:
+      213: 8539087312775496716
+    second: pngarea.com_sheet-png-sprite-8871724_28
+  - first:
+      213: -1369204420553297629
+    second: pngarea.com_sheet-png-sprite-8871724_29
+  - first:
+      213: -8909696850159175759
+    second: pngarea.com_sheet-png-sprite-8871724_30
+  - first:
+      213: 5173423915410648321
+    second: pngarea.com_sheet-png-sprite-8871724_31
+  - first:
+      213: 7461208794339317920
+    second: pngarea.com_sheet-png-sprite-8871724_32
+  - first:
+      213: -4187086375662797958
+    second: pngarea.com_sheet-png-sprite-8871724_33
+  - first:
+      213: 5475632606201118300
+    second: pngarea.com_sheet-png-sprite-8871724_34
+  - first:
+      213: -1350009280125253311
+    second: pngarea.com_sheet-png-sprite-8871724_35
+  - first:
+      213: -6872766968337928122
+    second: pngarea.com_sheet-png-sprite-8871724_36
+  - first:
+      213: -1647219427163487926
+    second: pngarea.com_sheet-png-sprite-8871724_37
+  - first:
+      213: 5788726347716253009
+    second: pngarea.com_sheet-png-sprite-8871724_38
+  - first:
+      213: -8167857126858817926
+    second: pngarea.com_sheet-png-sprite-8871724_39
+  - first:
+      213: -1612664978301390154
+    second: pngarea.com_sheet-png-sprite-8871724_40
+  - first:
+      213: 6773769545244065811
+    second: pngarea.com_sheet-png-sprite-8871724_41
+  - first:
+      213: 329672102489834759
+    second: pngarea.com_sheet-png-sprite-8871724_42
+  - first:
+      213: 8331533695781739201
+    second: pngarea.com_sheet-png-sprite-8871724_43
+  - first:
+      213: -9180727630751923475
+    second: pngarea.com_sheet-png-sprite-8871724_44
+  - first:
+      213: 8034241454470829145
+    second: pngarea.com_sheet-png-sprite-8871724_45
+  - first:
+      213: 371659250877764696
+    second: pngarea.com_sheet-png-sprite-8871724_46
+  - first:
+      213: 2161556606694842761
+    second: pngarea.com_sheet-png-sprite-8871724_47
+  - first:
+      213: -8634694530335958803
+    second: pngarea.com_sheet-png-sprite-8871724_48
+  - first:
+      213: -946388611834250446
+    second: pngarea.com_sheet-png-sprite-8871724_49
+  - first:
+      213: 5330367671388067593
+    second: pngarea.com_sheet-png-sprite-8871724_50
+  - first:
+      213: -3010180135014088433
+    second: pngarea.com_sheet-png-sprite-8871724_51
+  - first:
+      213: -429222916607891907
+    second: pngarea.com_sheet-png-sprite-8871724_52
+  - first:
+      213: 2013748470031814597
+    second: pngarea.com_sheet-png-sprite-8871724_53
+  - first:
+      213: 1998659570724921197
+    second: pngarea.com_sheet-png-sprite-8871724_54
+  - first:
+      213: -3466124775978949723
+    second: pngarea.com_sheet-png-sprite-8871724_55
+  - first:
+      213: -1981179945176401824
+    second: pngarea.com_sheet-png-sprite-8871724_56
+  - first:
+      213: 6503235361907879660
+    second: pngarea.com_sheet-png-sprite-8871724_57
+  - first:
+      213: 2515931925019766561
+    second: pngarea.com_sheet-png-sprite-8871724_58
+  - first:
+      213: -9194017836840363742
+    second: pngarea.com_sheet-png-sprite-8871724_59
+  - first:
+      213: 7225947116108914116
+    second: pngarea.com_sheet-png-sprite-8871724_60
+  - first:
+      213: -7851211893092583239
+    second: pngarea.com_sheet-png-sprite-8871724_61
+  - first:
+      213: 4898855883013928187
+    second: pngarea.com_sheet-png-sprite-8871724_62
+  - first:
+      213: 5852565361970701882
+    second: pngarea.com_sheet-png-sprite-8871724_63
+  - first:
+      213: -7605420245714661468
+    second: pngarea.com_sheet-png-sprite-8871724_64
+  - first:
+      213: 4190127490098191830
+    second: pngarea.com_sheet-png-sprite-8871724_65
+  - first:
+      213: -3500541989802264071
+    second: pngarea.com_sheet-png-sprite-8871724_66
+  - first:
+      213: -4318538159383521700
+    second: pngarea.com_sheet-png-sprite-8871724_67
+  - first:
+      213: -881938906781080362
+    second: pngarea.com_sheet-png-sprite-8871724_68
+  - first:
+      213: 3976977964559933135
+    second: pngarea.com_sheet-png-sprite-8871724_69
+  - first:
+      213: 8344291695860530219
+    second: pngarea.com_sheet-png-sprite-8871724_70
+  - first:
+      213: -7127468857661768781
+    second: pngarea.com_sheet-png-sprite-8871724_71
+  - first:
+      213: -2178556727745403513
+    second: pngarea.com_sheet-png-sprite-8871724_72
+  - first:
+      213: -6055063451571910561
+    second: pngarea.com_sheet-png-sprite-8871724_73
+  - first:
+      213: 4454550331379808063
+    second: pngarea.com_sheet-png-sprite-8871724_74
+  - first:
+      213: 6770281869604145178
+    second: pngarea.com_sheet-png-sprite-8871724_75
+  - first:
+      213: 8163074796261815946
+    second: pngarea.com_sheet-png-sprite-8871724_76
+  - first:
+      213: 2928082540973510173
+    second: pngarea.com_sheet-png-sprite-8871724_77
+  - first:
+      213: -3725660365645495590
+    second: pngarea.com_sheet-png-sprite-8871724_78
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1795
+        width: 145
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6769a2fb9a212d770800000000000000
+      internalID: 8633983955888674422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1795
+        width: 160
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0a7e95b3bbc1f30800000000000000
+      internalID: 4547715587323175165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_2
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1795
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a6c904557aff250800000000000000
+      internalID: 5980682814769359449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_3
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1795
+        width: 172
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050412462e6754b30800000000000000
+      internalID: 4270950536345370704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_4
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1819
+        width: 175
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f00571637375fa90800000000000000
+      internalID: -7280786283181047567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_5
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1805
+        width: 178
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69592900f237ed6e0800000000000000
+      internalID: -1810883354446097002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_6
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1794
+        width: 159
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f301e9b0b8660bc00800000000000000
+      internalID: 914343471737606207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_7
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 1807
+        width: 176
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad63a254634de1c70800000000000000
+      internalID: 8943819239558100698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_8
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1810
+        width: 180
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11b1cb36e598dee0800000000000000
+      internalID: -1236073281635634913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_9
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1799
+        width: 166
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c46e3d255161bb70800000000000000
+      internalID: 8913012156002100421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_10
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1531
+        width: 156
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc835f5cb05783600800000000000000
+      internalID: 448236856349636811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1531
+        width: 343
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65749302be2737ef0800000000000000
+      internalID: -111619211570624682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_12
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1531
+        width: 179
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1486c7dbf187e90800000000000000
+      internalID: -7027832319815171671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_13
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1531
+        width: 435
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0074e3f746144330800000000000000
+      internalID: 3694102092640972811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_14
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1606
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0757e6ec6aa91d0800000000000000
+      internalID: -3343176367822507817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_15
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1531
+        width: 399
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02401fc3bcb49960800000000000000
+      internalID: 7607913150994727437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_16
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 1531
+        width: 422
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3abe575d6033f730800000000000000
+      internalID: 4031619337602120252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_17
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 1522
+        width: 70
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9115670b1e47400800000000000000
+      internalID: 321129621465668036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_18
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 1505
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305a24cef01a06d60800000000000000
+      internalID: 7881476437658739971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_19
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1513
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b2fde6fe35c0320800000000000000
+      internalID: 2525485778870414204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_20
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1503
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9261eef113a1944d0800000000000000
+      internalID: -3149957666077534679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_21
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1254
+        width: 157
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dd61bff8b199a60800000000000000
+      internalID: 7681200944663944582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1254
+        width: 160
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e355ed0bd9b3467a0800000000000000
+      internalID: -6384912823241255618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_23
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1254
+        width: 220
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3392ef8ca376eacc0800000000000000
+      internalID: -3697904741846734541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_24
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1428
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62daad71a866ed060800000000000000
+      internalID: 6980129215762574630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_25
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1254
+        width: 195
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c605e9272dcc74630800000000000000
+      internalID: 3911320005632741484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_26
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1254
+        width: 193
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990a5d5cc19b49020800000000000000
+      internalID: 2347704838996205721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_27
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 1442
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1231b9416c46960800000000000000
+      internalID: 7594412663456866815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_28
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1254
+        width: 195
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0447004baee08670800000000000000
+      internalID: 8539087312775496716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_29
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1254
+        width: 158
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321b60875db9ffce0800000000000000
+      internalID: -1369204420553297629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_30
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1254
+        width: 159
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b778dd9be56a5480800000000000000
+      internalID: -8909696850159175759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_31
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1403
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10def8e14a1bbc740800000000000000
+      internalID: 5173423915410648321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_32
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 1424
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a89d950ed98b8760800000000000000
+      internalID: 7461208794339317920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_33
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1389
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bbdbe102b74e5c0800000000000000
+      internalID: -4187086375662797958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_34
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1345
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ef92d18da5dfb40800000000000000
+      internalID: 5475632606201118300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_35
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1321
+        width: 9
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14947ae56bdc34de0800000000000000
+      internalID: -1350009280125253311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_36
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1321
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640fd241bd60f90a0800000000000000
+      internalID: -6872766968337928122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_37
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 1311
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a414cc888a6e329e0800000000000000
+      internalID: -1647219427163487926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_38
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1299
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155529971ffa55050800000000000000
+      internalID: 5788726347716253009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_39
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1251
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7eff61e731f5ae80800000000000000
+      internalID: -8167857126858817926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_40
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1234
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2f1aa1fb9ae99e0800000000000000
+      internalID: -1612664978301390154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_41
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 1240
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310c1ae2383410e50800000000000000
+      internalID: 6773769545244065811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_42
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 942
+        width: 173
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7054341d70b339400800000000000000
+      internalID: 329672102489834759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_43
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 933
+        width: 176
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca944301cd8f9370800000000000000
+      internalID: 8331533695781739201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_44
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 943
+        width: 190
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de20b658cd0879080800000000000000
+      internalID: -9180727630751923475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_45
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 943
+        width: 196
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954937d190c5f7f60800000000000000
+      internalID: 8034241454470829145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_46
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 943
+        width: 190
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8549e0a9e16682500800000000000000
+      internalID: 371659250877764696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_47
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 943
+        width: 357
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981e1f708446ffd10800000000000000
+      internalID: 2161556606694842761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_48
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 942
+        width: 231
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8115fb2176b2880800000000000000
+      internalID: -8634694530335958803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_49
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 741
+        width: 166
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bf42c5290cdd2f0800000000000000
+      internalID: -946388611834250446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_50
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 741
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907df47d72549f940800000000000000
+      internalID: 5330367671388067593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_51
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 734
+        width: 166
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f014c86ad11b936d0800000000000000
+      internalID: -3010180135014088433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_52
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 658
+        width: 480
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36212e08081b0af0800000000000000
+      internalID: -429222916607891907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_53
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 741
+        width: 282
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf8b3f609542fb10800000000000000
+      internalID: 2013748470031814597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_54
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 741
+        width: 292
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f5efb4a4aacbb10800000000000000
+      internalID: 1998659570724921197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_55
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 509
+        width: 230
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3289c61e9d5efc0800000000000000
+      internalID: -3466124775978949723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_56
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 509
+        width: 210
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068f1ab265f6184e0800000000000000
+      internalID: -1981179945176401824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_57
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 509
+        width: 208
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee27452b12204a50800000000000000
+      internalID: 6503235361907879660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_58
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 509
+        width: 205
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f2edd71c26ae220800000000000000
+      internalID: 2515931925019766561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_59
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 509
+        width: 230
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22956884d79486080800000000000000
+      internalID: -9194017836840363742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_60
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 509
+        width: 353
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd1e6d0e98b74460800000000000000
+      internalID: 7225947116108914116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_61
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 509
+        width: 222
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8f4e77164ea0390800000000000000
+      internalID: -7851211893092583239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_62
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 240
+        width: 225
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4b0e8687b3cf340800000000000000
+      internalID: 4898855883013928187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 252
+        width: 241
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36e401403d783150800000000000000
+      internalID: 5852565361970701882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_64
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 245
+        width: 218
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af0d9ee49e147690800000000000000
+      internalID: -7605420245714661468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_65
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 258
+        width: 220
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddd6e280c2562a30800000000000000
+      internalID: 4190127490098191830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_66
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 243
+        width: 240
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f93f706b939b6fc0800000000000000
+      internalID: -3500541989802264071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_67
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 243
+        width: 242
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56d9f4bc687114c0800000000000000
+      internalID: -4318538159383521700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_68
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 243
+        width: 239
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4a7bbac39b2c3f0800000000000000
+      internalID: -881938906781080362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_69
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 438
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce96294360113730800000000000000
+      internalID: 3976977964559933135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_70
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 243
+        width: 239
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c32026611ecc370800000000000000
+      internalID: 8344291695860530219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_71
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 438
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb396f36d4261d90800000000000000
+      internalID: -7127468857661768781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_72
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 421
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785a2b7d23634c1e0800000000000000
+      internalID: -2178556727745403513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_73
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 421
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f580b943fd718fba0800000000000000
+      internalID: -6055063451571910561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_74
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 251
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37fdf7dcedb1dd30800000000000000
+      internalID: 4454550331379808063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_75
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 387
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18c50b6d7fd4fd50800000000000000
+      internalID: 6770281869604145178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_76
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 103
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8631220741194170800000000000000
+      internalID: 8163074796261815946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngarea.com_sheet-png-sprite-8871724_77
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 0
+        width: 272
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ecfbfae83a2a820800000000000000
+      internalID: 2928082540973510173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
