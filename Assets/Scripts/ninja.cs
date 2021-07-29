@@ -36,7 +36,6 @@ public class ninja : Enemy
     {
         Animator.SetTrigger(Constants_used.Ninja_attack);
         yield return new WaitForSeconds(0.4f);
-        Destroy(_weapon_holder);
         base.OnCollisionEnter2D(this_obj);
     }
     public override void OnCollisionEnter2D(Collision2D collision)

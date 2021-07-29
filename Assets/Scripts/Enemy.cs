@@ -12,8 +12,7 @@ public abstract class Enemy : MonoBehaviour
     [SerializeField] protected float _speed = 1;
     public virtual void Start()
     {
-        UI_handler ui_Handler = FindObjectOfType<UI_handler>();
-        if (ui_Handler != null) { ui_Handler.life_event(this); }
+        Player_UI.life_event_handler(this);
         _Rigidbody2D = GetComponent<Rigidbody2D>();
         _body = GetComponent<CapsuleCollider2D>();
     }
@@ -22,7 +21,7 @@ public abstract class Enemy : MonoBehaviour
         if (collision.gameObject.GetComponent<Player>()!=null)
         {
             float dir = Vector2.Dot(transform.right, collision.transform.right);
-            collision.gameObject.GetComponent<Rigidbody2D>().AddForce(Vector2.left*dir * 1000);
+            collision.gameObject.GetComponent<Rigidbody2D>().AddForce(Vector2.left*dir * 2000);
             event_enemy_collision?.Invoke(_hit);
             Destroy(this.gameObject);
         }

@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 458083773956400465}
   - component: {fileID: 458083773956400495}
   - component: {fileID: 458083773956400494}
-  - component: {fileID: -7691819177561262960}
   m_Layer: 12
   m_Name: final
   m_TagString: Untagged
@@ -52,7 +51,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -97,8 +96,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1f8e0ba65aaafe347b58454b5e213386, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  move: {x: 12, y: 0, z: 0}
-  cycles: 4
+  move_x: {x: 10, y: 0, z: 0}
+  cycles_x: 2
+  sprite_reversable: 0
   weapon: {fileID: 3294491678135011748, guid: 7630c7a86fe3ea3449cf13fa52aa2763, type: 3}
   _speed_weapon: 7
   _weapon_time: 0.5
@@ -121,17 +121,3 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &-7691819177561262960
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 458083773956400466}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 044c38a7fdbab74499cc2d8c88dbfc8b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  move: {x: 12, y: 0, z: 0}
-  cycles: 4

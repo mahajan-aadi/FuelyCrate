@@ -61,7 +61,7 @@ public class Player : MonoBehaviour
         Vector3 __new_scale = new Vector3(Mathf.Sign(__x)*Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
         this.transform.localScale = __new_scale;
         //animation
-        bool __state = Mathf.Abs(_Rigidbody2D.velocity.y) > Mathf.Epsilon;
+        bool __state = Mathf.Abs(_Rigidbody2D.velocity.x) > Mathf.Epsilon;
         _animator.run(__state);
 
     }
@@ -80,8 +80,12 @@ public class Player : MonoBehaviour
     public void set_animator(bool value) { _Animation = value; }
     public void set_gravity(bool value) 
     {
-        if (value) 
-            _Rigidbody2D.gravityScale = 0f;       
+        if (value)
+        {
+            _Rigidbody2D.gravityScale = 0f;
+            transform.localPosition = Vector3.zero;
+        }
+
         else
             _Rigidbody2D.gravityScale = 10f;        
     }

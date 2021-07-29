@@ -13,6 +13,8 @@ public class final_enemy : moving_objects
     public override void Start()
     {
         base.Start();
+        time.event_change_height += change_height;
+        time.event_time_up += destroy;
         _current_pos = main_pos;
         _weapon_holder = new GameObject("Weapon Holder");
         StartCoroutine(fire());
@@ -34,14 +36,13 @@ public class final_enemy : moving_objects
 
     void change_height(int increment)
     {
-        _current_pos = new Vector3(_current_pos.x, _current_pos.y + increment, _current_pos.z);
+        main_pos = new Vector3(main_pos.x, main_pos.y + increment, main_pos.z);
+
     }
-    public void Change_Height(time time) { time.event_change_height += change_height; }
     void destroy()
     {
         StopAllCoroutines();
         Destroy(_weapon_holder);
-        Destroy(this.gameObject, 1f);
+        Destroy(this.gameObject);
     }
-    public void Main_Destroy(time time) { time.event_time_up += destroy; }
 }

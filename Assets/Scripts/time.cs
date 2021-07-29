@@ -3,25 +3,23 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 
 public class time : MonoBehaviour
 {
     [SerializeField] int _time;
-    Text time_text;
-    public event Action event_time_up; 
-    public event Action<int> event_change_height;
+    [SerializeField] TMP_Text time_text;
+    public static event Action event_time_up; 
+    public static event Action<int> event_change_height;
     private void Start()
     {
-        event_handlers();
-        time_text = GetComponent<Text>();
+        Game_manager.event_instantiate += Starting;
+    }
+    void Starting()
+    {
+        event_time_up += destoy;
         update_time();
         StartCoroutine(start_time());
-    }
-    void event_handlers()
-    {
-        final_enemy enemy = FindObjectOfType<final_enemy>();
-        enemy.Change_Height(this);
-        enemy.Main_Destroy(this);
     }
     IEnumerator start_time()
     {
@@ -42,15 +40,17 @@ public class time : MonoBehaviour
         switch (_time)
         {
             case 150:
-            case 60:
+            case 30:
             case 20:
-            case 10:
-                event_change_height?.Invoke(-1);
+            case 8:
+            case 5:
+                event_change_height?.Invoke(-2);
                 break;
             case 120:
             case 90:
-            case 30:
-                event_change_height?.Invoke(1);
+            case 60:
+            case 10:
+                event_change_height?.Invoke(2);
                 break;
         }
     }
@@ -58,6 +58,7 @@ public class time : MonoBehaviour
     private void time_end()
     {
         event_time_up?.Invoke();
+        FindObjectOfType<Game_manager>().timeline_select();
     }
 
     private void update_time()
@@ -66,4 +67,5 @@ public class time : MonoBehaviour
         int time_sec = _time % 60;
         time_text.text = time_min + ":" + time_sec;
     }
+    void destoy() { Destroy(this.gameObject); }
 }

@@ -5,14 +5,18 @@ using UnityEngine;
 
 public class final_fight : Enemy
 {
-    float _health = 100;
+    public static event Action<int> event_hurt;
+    public static event Action event_dead;
+    int _health = 1000;
     [SerializeField] float _fire_time=1f,_fire_speed;
-    [SerializeField] float _partcle_hit=0.1f;
+    [SerializeField] int _partcle_hit=1;
     [SerializeField] GameObject weapon;
+    [SerializeField] GameObject UI;
     GameObject _weapon_holder;
     Player player;
     public override void Start()
     {
+        Instantiate(UI, transform.position, Quaternion.identity);
         _weapon_holder = new GameObject("Weapon Holder");
         player = FindObjectOfType<Player>();
         StartCoroutine(fire());
@@ -24,11 +28,11 @@ public class final_fight : Enemy
     }
     private void movement()
     {
-        float __flip = transform.localScale.x;
+        float __flip = Mathf.Abs(transform.localScale.x);
         float own_pos = transform.position.x;
         float player_pos = player.transform.position.x;
-        if (player_pos < own_pos) { __flip = 1; }
-        else if (player_pos > own_pos) { __flip = -1; }
+      //  if (player_pos < own_pos) { __flip = 1; }
+        if (player_pos > own_pos) { __flip *= -1; }
         transform.localScale = new Vector2(__flip , transform.localScale.y);
         _Rigidbody2D.velocity = new Vector2(__flip * -1, 0);
     }
@@ -54,9 +58,12 @@ public class final_fight : Enemy
     private void OnParticleCollision(GameObject other)
     {
         _health -= _partcle_hit;
+        event_hurt?.Invoke(_partcle_hit);
         if (_health <= 0)
         {
             StopAllCoroutines();
+            event_dead?.Invoke();
+            FindObjectOfType<Game_manager>().timeline_select();
             Destroy(this.gameObject, 1f);
         }
     }

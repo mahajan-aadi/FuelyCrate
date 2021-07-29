@@ -51,7 +51,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -95,8 +95,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 896fc1367c3b7c445809a6a6b10a99cf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  move: {x: 2, y: 0, z: 0}
-  cycles: 2
+  move_x: {x: 0, y: 0, z: 0}
+  cycles_x: 2
   sprite_reversable: 0
 --- !u!61 &6733154922888377933
 BoxCollider2D:

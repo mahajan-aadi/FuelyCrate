@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 7749947939656452732}
   - component: {fileID: 6374845923970987321}
   - component: {fileID: 3308889855360404385}
+  - component: {fileID: 2716304951374701480}
   m_Layer: 0
   m_Name: CoinSprite
   m_TagString: Untagged
@@ -50,7 +51,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -94,4 +95,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e36d6aa81b53e749a90b99bbd7edab0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  points: 1
+  _points: 10
+--- !u!58 &2716304951374701480
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 462046329911247264}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.000000059604645, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.33210975

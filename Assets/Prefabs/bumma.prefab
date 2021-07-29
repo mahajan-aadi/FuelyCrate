@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 3274700059508471829}
   - component: {fileID: 3274700059508471828}
   m_Layer: 12
-  m_Name: Enemy
+  m_Name: bumma
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -54,7 +54,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -181,4 +181,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6fb9e8ea8030b0429b02df6d8d1bb6e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _hit: 10
   _speed: 1

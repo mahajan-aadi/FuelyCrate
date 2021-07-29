@@ -99,6 +99,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 1989500300984496449, guid: d6d9b50b8595bd14d874f07b1aca37fd,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1989500300984496449, guid: d6d9b50b8595bd14d874f07b1aca37fd,
+        type: 3}
+      propertyPath: m_Offset.x
+      value: -0.0426127
+      objectReference: {fileID: 0}
+    - target: {fileID: 1989500300984496449, guid: d6d9b50b8595bd14d874f07b1aca37fd,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 0.6523053
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d6d9b50b8595bd14d874f07b1aca37fd, type: 3}
 --- !u!4 &4986482928711932359 stripped
@@ -299,6 +314,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Lens.m_SensorSize.x
       value: 1.778607
+      objectReference: {fileID: 0}
+    - target: {fileID: 7772756844162501225, guid: e34079f972c444743b0afa0cb0427477,
+        type: 3}
+      propertyPath: m_Lens.OrthographicSize
+      value: 5
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 7772756842249104200, guid: e34079f972c444743b0afa0cb0427477, type: 3}

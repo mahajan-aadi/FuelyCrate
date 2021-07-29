@@ -29,8 +29,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5338807640580824002}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.7497144, y: 3.1563523, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0, y: 1, z: 0}
+  m_LocalScale: {x: 0.7, y: 0.7, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -53,7 +53,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -118,11 +118,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _hit: 10
-  _speed: 1
-  _fire_time: 1
-  _fire_speed: 5
-  _partcle_hit: 0.1
+  _speed: 1.25
+  _fire_time: 2.5
+  _fire_speed: 4
+  _partcle_hit: 1
   weapon: {fileID: 3294491678135011748, guid: 7630c7a86fe3ea3449cf13fa52aa2763, type: 3}
+  UI: {fileID: 6658719042039458459, guid: 25ea28fbbcc13344face514daeec8de0, type: 3}
 --- !u!50 &354348345
 Rigidbody2D:
   serializedVersion: 4
@@ -138,7 +139,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 5
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
@@ -157,6 +158,6 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.4097762, y: -0.0819056}
-  m_Size: {x: 1.0916224, y: 1.6933205}
+  m_Offset: {x: -0.45522538, y: -0.15760854}
+  m_Size: {x: 0.9098258, y: 1.3905094}
   m_Direction: 0

@@ -9,7 +9,7 @@ public class collectables : MonoBehaviour
     [SerializeField] int _points;
     void Start()
     {
-        FindObjectOfType<UI_handler>().add_score_event(this);
+        Player_UI.score_event_handler(this);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
