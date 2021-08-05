@@ -5,7 +5,7 @@ using UnityEngine.Playables;
 public class Subtitle_Clip : PlayableAsset
 {
     public string subtitle_text;
-    public enum color_available { red, green, mangetta, yellow, clear };
+    public enum color_available { red, green, mangetta, yellow, clear, nocolor };
     public color_available color;
     public bool blend = false;
     public override Playable CreatePlayable(PlayableGraph graph, GameObject owner)
@@ -38,6 +38,9 @@ public class Subtitle_Clip : PlayableAsset
                 break;
             case color_available.clear:
                 __color_box = new Color(1, 1, 1, alpha_val);
+                break;
+            case color_available.nocolor:
+                __color_box = new Color(1, 1, 1, 0);
                 break;
         }
         Subtitle_Behaviour.Color = __color_box;

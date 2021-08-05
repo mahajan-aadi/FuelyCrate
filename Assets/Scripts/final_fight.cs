@@ -61,6 +61,7 @@ public class final_fight : Enemy
         event_hurt?.Invoke(_partcle_hit);
         if (_health <= 0)
         {
+            this.gameObject.SetActive(false);
             StopAllCoroutines();
             event_dead?.Invoke();
             FindObjectOfType<Game_manager>().timeline_select();
