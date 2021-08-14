@@ -70,6 +70,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6935490557165619816}
     m_Modifications:
+    - target: {fileID: 7772756842249104199, guid: e34079f972c444743b0afa0cb0427477,
+        type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 7772756842249104201, guid: e34079f972c444743b0afa0cb0427477,
         type: 3}
       propertyPath: orthographic size
@@ -90,6 +95,16 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -10
       objectReference: {fileID: 0}
+    - target: {fileID: 7772756842353864500, guid: e34079f972c444743b0afa0cb0427477,
+        type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 7772756842579562019, guid: e34079f972c444743b0afa0cb0427477,
+        type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 7772756842759434080, guid: e34079f972c444743b0afa0cb0427477,
         type: 3}
       propertyPath: m_Follow
@@ -104,6 +119,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_BoundingShape2D
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7772756842759434110, guid: e34079f972c444743b0afa0cb0427477,
+        type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 7772756842759434111, guid: e34079f972c444743b0afa0cb0427477,
         type: 3}
@@ -120,10 +140,20 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 26.929688
       objectReference: {fileID: 0}
+    - target: {fileID: 7772756842885500517, guid: e34079f972c444743b0afa0cb0427477,
+        type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 7772756843240138939, guid: e34079f972c444743b0afa0cb0427477,
         type: 3}
       propertyPath: m_Name
       value: 'Cameras '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7772756843240138939, guid: e34079f972c444743b0afa0cb0427477,
+        type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 7772756843240138940, guid: e34079f972c444743b0afa0cb0427477,
         type: 3}
@@ -180,6 +210,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7772756843381961909, guid: e34079f972c444743b0afa0cb0427477,
+        type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 7772756843381961910, guid: e34079f972c444743b0afa0cb0427477,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -209,6 +244,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Lens.m_SensorSize.x
       value: 1.7777778
+      objectReference: {fileID: 0}
+    - target: {fileID: 7772756843491878702, guid: e34079f972c444743b0afa0cb0427477,
+        type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 7772756843491878864, guid: e34079f972c444743b0afa0cb0427477,
         type: 3}
@@ -249,6 +289,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Instructions.Array.data[2].m_FullHash
       value: 837589759
+      objectReference: {fileID: 0}
+    - target: {fileID: 7772756844162501222, guid: e34079f972c444743b0afa0cb0427477,
+        type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 7772756844162501223, guid: e34079f972c444743b0afa0cb0427477,
         type: 3}

@@ -8,4 +8,28 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Start.unity
     guid: 07008dd6d4fd1a54f8611e16ec3fa955
+  - enabled: 1
+    path: Assets/Scenes/Character_choose.unity
+    guid: c8c092b62f3e60f488e3253f6ca07444
+  - enabled: 1
+    path: Assets/Scenes/Cutscene_Start.unity
+    guid: c2318a4d5a1f56949b0b92f48bd591b3
+  - enabled: 1
+    path: Assets/Scenes/Level_Tutorial.unity
+    guid: 222fba57755f5e34b9cb0701875881cc
+  - enabled: 1
+    path: Assets/Scenes/Level_1.unity
+    guid: 4ae792b09fb54394883655af9d73f4a0
+  - enabled: 1
+    path: Assets/Scenes/Cutscene_Level_2.unity
+    guid: 3e4438585857b29489060ab543101fe2
+  - enabled: 1
+    path: Assets/Scenes/Level_2.unity
+    guid: 009ed049030e5b24e9c93adbec67da86
+  - enabled: 1
+    path: Assets/Scenes/Level_3.unity
+    guid: aad98db2e063a924fa6cc43e0f9604d8
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 696d91b07d73e584cbb21ce9aa479ea0
   m_configObjects: {}

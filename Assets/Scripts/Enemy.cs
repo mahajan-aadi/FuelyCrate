@@ -12,7 +12,7 @@ public abstract class Enemy : MonoBehaviour
     [SerializeField] protected float _speed = 1;
     public virtual void Start()
     {
-        Player_UI.life_event_handler(this);
+        FindObjectOfType<Player_UI>()?.life_event_handler(this);
         _Rigidbody2D = GetComponent<Rigidbody2D>();
         _body = GetComponent<CapsuleCollider2D>();
     }

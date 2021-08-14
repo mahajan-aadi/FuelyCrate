@@ -6,27 +6,36 @@ using System;
 
 public class Player_UI : Life_UI
 {
-    static event Action<int> events_life;
-    static event Action<int> events_score;
-    [SerializeField] Text _score_text;
-    int _score;
+    public static event Action event_player_dead;
+    static Text _score_text;
+    static int _score;
     void Start()
     {
-        events_life += update_life;
         max_health = Constants_used.get_max_life;
         _score = Constants_used.get_score;
         _life_left = Constants_used.get_life;
-        update_score(0); update_life(0);
+        _score_text = GetComponentInChildren<Text>();
+        update_life(0);
+        update_score(0);
+        Options_Menu.event_shield_cost += update_score;
+        Options_Menu.event_health_cost += update_score;
+        Options_Menu.event_health_cost += update_life;
+        event_player_dead += Dead;
     }
-    public static void life_event_handler(Enemy enemy)
+    public void life_event_handler(Enemy enemy)
     {
-        enemy.event_enemy_collision += events_life;
+        enemy.event_enemy_collision += life_check_update;
+    }
+    void life_check_update(int increase)
+    {
+        if (_life_left < increase) { event_player_dead?.Invoke(); }
+        else { update_life(increase); }
     }
     public static void score_event_handler(collectables collectables)
     {
-        collectables.event_increase_points += events_score;
+        collectables.event_increase_points += update_score;
     }
-    void update_score(int score)
+    static void update_score(int score)
     {
         _score += score;
         _score_text.text = Constants_used.score_prefix + _score.ToString();
@@ -35,5 +44,11 @@ public class Player_UI : Life_UI
     {
         Constants_used.get_score += _score;
         Constants_used.get_life = _life_left;
+    }
+    private void Dead()
+    {
+        _score = Constants_used.get_score;
+        _life_left = Constants_used.get_max_life;
+        Destroy(this.gameObject);
     }
 }

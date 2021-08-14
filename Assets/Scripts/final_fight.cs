@@ -64,7 +64,7 @@ public class final_fight : Enemy
             this.gameObject.SetActive(false);
             StopAllCoroutines();
             event_dead?.Invoke();
-            FindObjectOfType<Game_manager>().timeline_select();
+            FindObjectOfType<Game_manager>()?.timeline_select();
             Destroy(this.gameObject, 1f);
         }
     }

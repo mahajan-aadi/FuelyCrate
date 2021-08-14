@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Constants_used : MonoBehaviour
+public static class Constants_used
 {
     static int _score = 0;
     static int _life = 100;

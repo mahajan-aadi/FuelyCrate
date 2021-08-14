@@ -223,10 +223,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isGlobal: 1
-  priority: 0
+  priority: 1
   blendDistance: 0
   weight: 1
-  sharedProfile: {fileID: 11400000, guid: 2a96a2bc76855b443856e2e90c930a6d, type: 2}
+  sharedProfile: {fileID: 11400000, guid: 7a6b727036069a94db990627dafc6ddb, type: 2}
 --- !u!4 &150537761
 Transform:
   m_ObjectHideFlags: 0
@@ -1815,7 +1815,7 @@ GameObject:
   - component: {fileID: 1172746413}
   - component: {fileID: 1172746417}
   - component: {fileID: 1172746416}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Main Camera
   m_TagString: MainCamera
   m_Icon: {fileID: 0}

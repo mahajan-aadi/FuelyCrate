@@ -10,7 +10,7 @@ public class Shield : MonoBehaviour
         Invoke(nameof(Destroy), 5f);
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         if(collision.gameObject.GetComponent<Enemy>()!=null)
             Destroy(collision.gameObject);
