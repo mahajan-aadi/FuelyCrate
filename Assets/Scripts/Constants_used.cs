@@ -22,6 +22,8 @@ public static class Constants_used
     public static string UI = "UI";
     public static string Shield = "Shield";
     public static string score_prefix = "Score: ";
+    public static string Enemy_Hurt = "Enemy_Hurt";
+    public static string Player_Hurt = "Player_Hurt";
 
     public static int get_score { get { return _score; } set { _score = value; } }
     public static int get_life { get { return _life; } set { _life = value; } }

@@ -9,11 +9,15 @@ public class Player_UI : Life_UI
     public static event Action event_player_dead;
     static Text _score_text;
     static int _score;
+    AudioClip _hurt;
+    AudioSource _AudioSource;
     void Start()
     {
         max_health = Constants_used.get_max_life;
         _score = Constants_used.get_score;
         _life_left = Constants_used.get_life;
+        _hurt = (AudioClip)Resources.Load(Constants_used.Player_Hurt);
+        _AudioSource = GetComponent<AudioSource>();
         _score_text = GetComponentInChildren<Text>();
         update_life(0);
         update_score(0);
@@ -29,7 +33,13 @@ public class Player_UI : Life_UI
     void life_check_update(int increase)
     {
         if (_life_left < increase) { event_player_dead?.Invoke(); }
-        else { update_life(increase); }
+        else { Hurt_Audio(); update_life(increase); }
+    }
+    void Hurt_Audio()
+    {
+        if (!_AudioSource) { return; }
+        if (_AudioSource.isPlaying) { return; }
+        _AudioSource.PlayOneShot(_hurt);
     }
     public static void score_event_handler(collectables collectables)
     {

@@ -113,7 +113,7 @@ PrefabInstance:
     - target: {fileID: 7772756842759434080, guid: e34079f972c444743b0afa0cb0427477,
         type: 3}
       propertyPath: m_Lens.m_SensorSize.x
-      value: 1.7777778
+      value: 1.7787743
       objectReference: {fileID: 0}
     - target: {fileID: 7772756842759434081, guid: e34079f972c444743b0afa0cb0427477,
         type: 3}
@@ -243,7 +243,7 @@ PrefabInstance:
     - target: {fileID: 7772756843381961912, guid: e34079f972c444743b0afa0cb0427477,
         type: 3}
       propertyPath: m_Lens.m_SensorSize.x
-      value: 1.7777778
+      value: 1.7787743
       objectReference: {fileID: 0}
     - target: {fileID: 7772756843491878702, guid: e34079f972c444743b0afa0cb0427477,
         type: 3}
@@ -323,7 +323,7 @@ PrefabInstance:
     - target: {fileID: 7772756844162501225, guid: e34079f972c444743b0afa0cb0427477,
         type: 3}
       propertyPath: m_Lens.m_SensorSize.x
-      value: 1.7777778
+      value: 1.7787743
       objectReference: {fileID: 0}
     - target: {fileID: 7772756844162501225, guid: e34079f972c444743b0afa0cb0427477,
         type: 3}
@@ -420,6 +420,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5543575720178226448, guid: 6b67607f56d13014ebbe14b83511572c,
+        type: 3}
+      propertyPath: _jump_speed
+      value: 23
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6b67607f56d13014ebbe14b83511572c, type: 3}

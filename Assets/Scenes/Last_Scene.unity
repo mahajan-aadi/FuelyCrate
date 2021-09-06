@@ -98,7 +98,7 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
-  m_UseShadowmask: 0
+  m_UseShadowmask: 1
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -175,6 +175,8 @@ PlayableDirector:
     value: {fileID: 1091353512}
   - key: {fileID: 8638411091996570079, guid: a695869f9a7762446a08f2d4714c74cd, type: 2}
     value: {fileID: 573582969}
+  - key: {fileID: 4767194668403120278, guid: a695869f9a7762446a08f2d4714c74cd, type: 2}
+    value: {fileID: 0}
   m_ExposedReferences:
     m_References: []
 --- !u!1 &157945044
@@ -291,6 +293,7 @@ GameObject:
   - component: {fileID: 484767119}
   - component: {fileID: 484767118}
   - component: {fileID: 484767120}
+  - component: {fileID: 484767121}
   m_Layer: 5
   m_Name: Credits_Image
   m_TagString: Untagged
@@ -373,6 +376,35 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &484767121
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 484767116}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e52de21a22b6dd44c9cc19f810c65059, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Events:
+    m_Signals:
+    - {fileID: 11400000, guid: 6373b1be94547014e81088b3458195eb, type: 2}
+    m_Events:
+    - m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1406792642}
+          m_MethodName: Main_Scene
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
 --- !u!1 &573582964
 GameObject:
   m_ObjectHideFlags: 0
@@ -409,10 +441,10 @@ RectTransform:
   m_Father: {fileID: 157945048}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -424}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: 0, y: -175.5}
+  m_SizeDelta: {x: 592, y: 333}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &573582966
 MonoBehaviour:
@@ -550,15 +582,18 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "\nAadi Mahajan\n\nAadi Mahajan\n\nSuper Platformer Assets (FoxFin)\nglitchthegame.com\n\nSuper
-    Platformer Assets (FoxFin)\n\nAadi Mahajan\n\nSteve Gabry\n5pb and Team GrisGris\n\n\n\n\nBrackeys\n[youtube.com/user/Brackeys]\nGameDev.TV\n[udemy.com/course/unitycourse]\nUniversity
+    Platformer Assets (FoxFin)\n\nAadi Mahajan\n\nSteve Gabry\n5pb and Team GrisGris\nPassacaglia
+    \u2013 Handel/Halvorsen \nKassia\r\nG. F.Handel-Suite No. 7, g minor, HWV 432\nCherryMochi
+    - Tokyo Dark\n\nElton John\n\nBrackeys\n[youtube.com/user/Brackeys]\nGameDev.TV\n[udemy.com/course/unitycourse]\nUniversity
     of Colorado System\n[coursera.org/learn/\nintermediate-object-oriented-\nprogramming-unity-games]\nMister
     Taft Creates\n[youtube.com/channel/\nUCZczqDvepgNqy80gTMGnUXw]\nGame Dev Guide\n[youtube.com/channel/\nUCR35rzd4LLomtQout93gi0w]\nUnity\n[https://www.youtube.com/user/Unity3D]\nZyger\n[youtube.com/channel/\nUCvYUyKg7wDj760PippmWhig]\nJimmy
     Vegas \n[youtube.com/channel/\nUCRMXHQ2rJ9_0CHS7mhL7erg]\nJason Weimann\n[youtube.com/channel/\nUCX_b3NNQN5bzExm-22-NVVg]\nOne
     Wheel Studio\n[youtube.com/channel/\nUCkr9CPPqT9VWUjkpo3HcACg]\nLost Relic Games\n[youtube.com/user/MegaStegz]\nProgramming
     with Mosh \n[youtube.com/user/programmingwithmosh]\nIAmTimCorey\n[youtube.com/user/IAmTimCorey]\nkudvenkat
-    \n[youtube.com/user/kudvenkat]\ngeeksforgeeks\n[geeksforgeeks.org]\nc-sharpcorner\n[c-sharpcorner.com]\n\n\nRick
-    Davidson\nOne Wheel Studio\nMosh Hamedani\nNaman Kapoor\nEshan Sabhapandit\nVatsin
-    Kumar\nAdwyetya Tripathys\nEkansh Aggarwal "
+    \n[youtube.com/user/kudvenkat]\ngeeksforgeeks\n[geeksforgeeks.org]\nc-sharpcorner\n[c-sharpcorner.com]\n\nNoriaki
+    Suguyama\r\nKazuhiko Inoue\r\nRyo Horikawa\n\nRick Davidson\nOne Wheel Studio\nMosh
+    Hamedani\nNaman Kapoor\nEshan Sabhapandit\nVatsin Kumar\nAdwyetya Tripathy\nEkansh
+    Aggarwal "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2b71975bb04aa264b96388481711d22f, type: 2}
   m_sharedMaterial: {fileID: 4457636206577471744, guid: 2b71975bb04aa264b96388481711d22f,
@@ -795,6 +830,7 @@ GameObject:
   - component: {fileID: 1406792639}
   - component: {fileID: 1406792638}
   - component: {fileID: 1406792641}
+  - component: {fileID: 1406792642}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -898,6 +934,20 @@ MonoBehaviour:
   m_RequiresDepthTexture: 0
   m_RequiresColorTexture: 0
   m_Version: 2
+--- !u!114 &1406792642
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1406792637}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31a8f303566fca6428a9ab3f22694018, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: {fileID: 0}
+  shield: {fileID: 0}
 --- !u!1 &1680277873
 GameObject:
   m_ObjectHideFlags: 0
@@ -964,7 +1014,7 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 16777216
+    rgba: 4278190080
   m_fontColor: {r: 0, g: 0, b: 0, a: 0}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -982,12 +1032,12 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 20
+  m_fontSize: 36
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
   m_fontSizeMin: 9
-  m_fontSizeMax: 20
+  m_fontSizeMax: 60
   m_fontStyle: 0
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 1024
@@ -1089,8 +1139,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Directed By \n\nProgramming \n\nCharacter Design \n\n\nTile Design\n\nLevel
-    Design\n\nMusic\n\n\nEnding Song\nSound Effects\nGuided by\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVoice
-    Actors\nSpecial Thanks to"
+    Design\n\nMusic\n\n\n\n\n\n\nEnding Song\n\nGuided by\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVoice
+    Actors\n\n\n\nSpecial Thanks to"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2b71975bb04aa264b96388481711d22f, type: 2}
   m_sharedMaterial: {fileID: 4457636206577471744, guid: 2b71975bb04aa264b96388481711d22f,

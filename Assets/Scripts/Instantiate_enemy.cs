@@ -17,7 +17,7 @@ public class Instantiate_enemy : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.GetComponent<Player>() == null) { return; }
-        inatantiate_enemy();
+        FindObjectOfType<Game_manager>().place_object();
         Destroy(this.gameObject);
     }
 }

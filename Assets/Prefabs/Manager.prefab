@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 8379353891636300199}
   - component: {fileID: 8379353891636300192}
   - component: {fileID: 8379353891636300193}
-  - component: {fileID: 8379353891636300194}
   - component: {fileID: 2367298023769581245}
   m_Layer: 0
   m_Name: Manager
@@ -99,10 +98,11 @@ MonoBehaviour:
     - {fileID: 11400000, guid: 0cf1a01f2e40e07479164adb3ab7ad3c, type: 2}
     - {fileID: 11400000, guid: 59f4aa5be1e52c040b528c94a939c437, type: 2}
     - {fileID: 11400000, guid: 05a7c36a84a0671439fbeae95823d49a, type: 2}
+    - {fileID: 11400000, guid: b992cd114d5e4014295776d48b582062, type: 2}
     m_Events:
     - m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 8379353891636300194}
+        - m_Target: {fileID: 0}
           m_MethodName: next_scene
           m_Mode: 1
           m_Arguments:
@@ -139,20 +139,19 @@ MonoBehaviour:
             m_StringArgument: 
             m_BoolArgument: 0
           m_CallState: 2
---- !u!114 &8379353891636300194
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8379353891636300196}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 31a8f303566fca6428a9ab3f22694018, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  health: {fileID: 0}
-  shield: {fileID: 0}
+    - m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 8379353891636300197}
+          m_MethodName: zero_gravity
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
 --- !u!81 &2367298023769581245
 AudioListener:
   m_ObjectHideFlags: 0

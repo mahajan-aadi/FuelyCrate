@@ -77,7 +77,12 @@ public class Player : MonoBehaviour
             }
         }
     }
-    public void set_animator(bool value) { _Animation = value; }
+    public void set_animator(bool value) 
+    {
+        _Animation = value;
+        if(_Rigidbody2D)
+            _Rigidbody2D.velocity = Vector2.zero; 
+    }
     public void set_gravity(bool value) 
     {
         if (value)

@@ -14,6 +14,7 @@ public abstract class Life_UI : MonoBehaviour
     protected int max_health { get; set; }
     protected void update_life(int increase)
     {
+        if (!life) { return; }
         _life_left -= increase;
         float __life_value = _life_left /(float) max_health;
         life.color = Gradient.Evaluate(__life_value);

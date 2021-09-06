@@ -10,6 +10,7 @@ public class Lecel_2_Partial : MonoBehaviour
     {
         AudioSource = GetComponent<AudioSource>();
         time.event_time_up += Play_Vain;
+        final_fight.event_dead += Play_Vain;
         Game_manager.event_instantiate += Play_Main;
     }
     private void OnTriggerEnter2D(Collider2D collision)

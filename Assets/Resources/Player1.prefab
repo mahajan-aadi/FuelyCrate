@@ -150,6 +150,11 @@ PrefabInstance:
       propertyPath: m_Size.x
       value: 0.6523053
       objectReference: {fileID: 0}
+    - target: {fileID: 6004348371717593285, guid: d6d9b50b8595bd14d874f07b1aca37fd,
+        type: 3}
+      propertyPath: _jump_speed
+      value: 25
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d6d9b50b8595bd14d874f07b1aca37fd, type: 3}
 --- !u!4 &4986482928711932359 stripped
@@ -214,7 +219,7 @@ PrefabInstance:
     - target: {fileID: 7772756842759434080, guid: e34079f972c444743b0afa0cb0427477,
         type: 3}
       propertyPath: m_Lens.m_SensorSize.x
-      value: 1.7777778
+      value: 1.7787743
       objectReference: {fileID: 0}
     - target: {fileID: 7772756842759434081, guid: e34079f972c444743b0afa0cb0427477,
         type: 3}
@@ -344,7 +349,7 @@ PrefabInstance:
     - target: {fileID: 7772756843381961912, guid: e34079f972c444743b0afa0cb0427477,
         type: 3}
       propertyPath: m_Lens.m_SensorSize.x
-      value: 1.7777778
+      value: 1.7787743
       objectReference: {fileID: 0}
     - target: {fileID: 7772756843491878702, guid: e34079f972c444743b0afa0cb0427477,
         type: 3}
@@ -394,7 +399,7 @@ PrefabInstance:
     - target: {fileID: 7772756844162501225, guid: e34079f972c444743b0afa0cb0427477,
         type: 3}
       propertyPath: m_Lens.m_SensorSize.x
-      value: 1.7777778
+      value: 1.7787743
       objectReference: {fileID: 0}
     - target: {fileID: 7772756844162501225, guid: e34079f972c444743b0afa0cb0427477,
         type: 3}

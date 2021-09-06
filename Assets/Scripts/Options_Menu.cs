@@ -9,10 +9,14 @@ public class Options_Menu : MonoBehaviour
 {
     [SerializeField] Button health, shield;
     const int SHIELD = 50, HEALTH = 10;
+    const float LEVEL_TIME = 0.8f;
     public static event Action<int> event_health_cost, event_shield_cost;
+    const string SHOP = "Shop", Final_Level = "Final_Battle", animator_trigger = "End";
+    Animator Animator;
     private void Start()
     {
         Player_UI.event_player_dead += reload_scene;
+        Animator = GetComponentInChildren<Animator>();
     }
     public void left_character() 
     {
@@ -24,7 +28,7 @@ public class Options_Menu : MonoBehaviour
     public void right_character()
     {
         Constants_used.Player = Constants_used.player2;
-        Constants_used.get_max_life = 200;
+        Constants_used.get_max_life = 300;
         Constants_used.shield = false;
         next_scene(); 
     }
@@ -58,7 +62,42 @@ public class Options_Menu : MonoBehaviour
         shield.interactable = false;
         event_shield_cost?.Invoke(-1 * SHIELD);
     }
-    public void next_scene() { Constants_used.level += 1; SceneManager.LoadScene(Constants_used.level); }
-    public void reload_scene() { SceneManager.LoadScene(Constants_used.level); }
-    public void Shop() { SceneManager.LoadScene("Shop"); }
+    public void next_scene()
+    {
+        if(SceneManager.GetActiveScene().name!=Final_Level)
+            Animator.SetTrigger(animator_trigger);
+        Constants_used.level += 1;
+        StartCoroutine(Level_load(Constants_used.level));
+    }
+    public void reload_scene() 
+    {
+        Animator.SetTrigger(animator_trigger);
+        StartCoroutine(Level_load(Constants_used.level));
+    }
+    public void Shop() 
+    {
+        Animator.SetTrigger(animator_trigger);
+        StartCoroutine(Shop_Load()); 
+    }
+    public void Quit_Game()
+    {
+        Application.Quit();
+    }
+    public void Main_Scene()
+    {
+        Constants_used.level = 0;
+        Constants_used.get_score = 0;
+        Animator.SetTrigger(animator_trigger);
+        StartCoroutine(Level_load(0));
+    }
+    IEnumerator Level_load(int level)
+    {
+        yield return new WaitForSeconds(LEVEL_TIME);
+        SceneManager.LoadScene(level);
+    }
+    IEnumerator Shop_Load()
+    {
+        yield return new WaitForSeconds(LEVEL_TIME);
+        SceneManager.LoadScene(SHOP);
+    }
 }
