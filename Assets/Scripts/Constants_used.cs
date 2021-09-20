@@ -24,11 +24,13 @@ public static class Constants_used
     public static string score_prefix = "Score: ";
     public static string Enemy_Hurt = "Enemy_Hurt";
     public static string Player_Hurt = "Player_Hurt";
+    public static string Pause_Menu = "Pause_Menu";
 
     public static int get_score { get { return _score; } set { _score = value; } }
     public static int get_life { get { return _life; } set { _life = value; } }
     public static int get_max_life { get { return _max_life; } set { _max_life = value; } }
     public static string Player { get; set; }
     public static bool shield { get; set; }
+    public static bool Pause { get; set; }
     public static int level { get; set; }
 }

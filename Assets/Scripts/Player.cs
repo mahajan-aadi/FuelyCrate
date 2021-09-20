@@ -12,20 +12,25 @@ public class Player : MonoBehaviour
     [SerializeField] float _jump_speed = 25;
     [SerializeField] float _climb_speed = 3;
     bool _Animation = false;
+    Game_manager _game_Manager;
     void Start()
     {
         _Rigidbody2D = GetComponent<Rigidbody2D>();
         _animator = transform.parent.parent.GetComponent<Animation_controller>();
         _feet = GetComponent<BoxCollider2D>();
+        _game_Manager = GetComponentInParent<Game_manager>();
     }
 
     void Update()
     {
+        if (Input.GetKeyDown(KeyCode.E)){ _game_Manager.pause_check(); }
+        if (Constants_used.Pause) { return; }
         if (_Animation) { return; }
          _getmovement();
         _jump();
         _climb();
-        if (Constants_used.shield && Input.GetKeyDown(KeyCode.P))
+
+        if (Constants_used.shield && Input.GetKeyDown(KeyCode.Q))
         {
             GameObject shield = (GameObject)Instantiate(Resources.Load(Constants_used.Shield), transform.position, Quaternion.identity);
             shield.transform.parent = this.transform;

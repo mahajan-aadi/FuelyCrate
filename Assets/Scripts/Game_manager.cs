@@ -8,31 +8,62 @@ using UnityEngine.Timeline;
 public class Game_manager : MonoBehaviour
 {
     public static event Action event_instantiate;
+    public static event Action event_Pause;
+    public static event Action event_Resume;
     public PlayableDirector playableDirector;
     [SerializeField] TimelineAsset[] timelines;
     [SerializeField] bool cutscene;
-    GameObject _player;
+    GameObject _player, _pause_menu;
     Player Player;
     private void Awake()
+    {
+        Instantiation();
+        event_set_up();
+        if (cutscene) { timeline_event_setup(); animation_start(playableDirector); }
+    }
+
+    private void Instantiation()
     {
         //GameObject player= (GameObject)Instantiate(Resources.Load(Constants_used.Player), transform.position, Quaternion.identity);
         _player = (GameObject)Instantiate(Resources.Load("Player1"), transform.position, Quaternion.identity);
         _player.transform.parent = this.transform;
         Player = _player.GetComponentInChildren<Player>();
         Instantiate(Resources.Load(Constants_used.UI), transform.position, Quaternion.identity);
-        if (cutscene) { event_setup(); animation_start(playableDirector); }
+        _pause_menu = (GameObject)Instantiate(Resources.Load(Constants_used.Pause_Menu), transform.position, Quaternion.identity);
+        _pause_menu.transform.parent = this.transform;
     }
 
     private void Start()
     {
         if (cutscene) { play(); }
     }
-    private void event_setup()
+    private void timeline_event_setup()
     {
         playableDirector.stopped += animation_stop;
         playableDirector.played += animation_start;
     }
-
+    void event_set_up()
+    {
+        event_Pause += pause;
+        event_Resume += resume;
+    }
+    public void pause_check()
+    {
+        if (Constants_used.Pause) { event_Resume?.Invoke(); }
+        else { event_Pause?.Invoke(); }
+    }
+    void pause()
+    {
+        _pause_menu.SetActive(true);
+        Time.timeScale = 0f;
+        Constants_used.Pause = true;
+    }
+    void resume()
+    {
+        _pause_menu.SetActive(false);
+        Time.timeScale = 1f;
+        Constants_used.Pause = false;
+    }
     public void play()
     {
         playableDirector.Play();

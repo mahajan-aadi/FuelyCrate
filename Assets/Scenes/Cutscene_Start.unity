@@ -98,7 +98,7 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
-  m_UseShadowmask: 0
+  m_UseShadowmask: 1
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -20810,7 +20810,7 @@ MonoBehaviour:
   priority: 0
   blendDistance: 0
   weight: 1
-  sharedProfile: {fileID: 11400000, guid: 2a96a2bc76855b443856e2e90c930a6d, type: 2}
+  sharedProfile: {fileID: 11400000, guid: a87d6ed4424da244c9ba6da0d6433a39, type: 2}
 --- !u!4 &1378010940
 Transform:
   m_ObjectHideFlags: 0

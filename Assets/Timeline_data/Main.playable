@@ -1,5 +1,20 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9174401267250022779
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07cca9eeb8e6eed4a9efe8160da37440, type: 3}
+  m_Name: Subtitle_Clip(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  subtitle_text: 
+  color: 0
+  blend: 1
 --- !u!114 &-9063615568720060665
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -12,7 +27,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07cca9eeb8e6eed4a9efe8160da37440, type: 3}
   m_Name: Subtitle_Clip(Clone)(Clone)
   m_EditorClassIdentifier: 
-  subtitle_text: <size=30>What am <I><B>I</I></B> doing here?</size>
+  subtitle_text: What am <I><B>I</I></B> doing here?
   color: 0
   blend: 0
 --- !u!114 &-8915872834273268614
@@ -73,7 +88,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07cca9eeb8e6eed4a9efe8160da37440, type: 3}
   m_Name: Subtitle_Clip
   m_EditorClassIdentifier: 
-  subtitle_text: HELLO!!! Welcome to the underworld human.<size=20>worm. Slicing
+  subtitle_text: HELLO!!! Welcome to the underworld human.<size=-10>worm. Slicing
     you in half would be nice artifact.</size>
   color: 1
   blend: 0
@@ -1923,7 +1938,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: Subtitle_Clip
   - m_Version: 1
-    m_Start: 99.92952420078221
+    m_Start: 100.29619086744887
     m_ClipIn: 0
     m_Asset: {fileID: -3009164620226304103}
     m_Duration: 0.5833333333333321
@@ -1974,7 +1989,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: Subtitle_Clip
   - m_Version: 1
-    m_Start: 92.92952420078215
+    m_Start: 93.29619086744881
     m_ClipIn: 0
     m_Asset: {fileID: -4095631404058042257}
     m_Duration: 1.4000000000000021
@@ -2043,7 +2058,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: Subtitle_Clip
   - m_Version: 1
-    m_Start: 94.32952420078219
+    m_Start: 94.69619086744885
     m_ClipIn: 0
     m_Asset: {fileID: 2822444269452393250}
     m_Duration: 1.4000000000000021
@@ -2112,7 +2127,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: Subtitle_Clip
   - m_Version: 1
-    m_Start: 95.7295242007822
+    m_Start: 96.09619086744885
     m_ClipIn: 0
     m_Asset: {fileID: 6112078339028994230}
     m_Duration: 1.4000000000000021
@@ -2163,7 +2178,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: Subtitle_Clip
   - m_Version: 1
-    m_Start: 97.12952420078217
+    m_Start: 97.49619086744883
     m_ClipIn: 0
     m_Asset: {fileID: -1527967487488926577}
     m_Duration: 1.4000000000000021
@@ -2214,7 +2229,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: Subtitle_Clip
   - m_Version: 1
-    m_Start: 98.5295242007822
+    m_Start: 98.89619086744887
     m_ClipIn: 0
     m_Asset: {fileID: 6765845856363208369}
     m_Duration: 1.4000000000000021
@@ -2729,6 +2744,57 @@ MonoBehaviour:
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
     m_DisplayName: Subtitle_Clip
+  - m_Version: 1
+    m_Start: 92.92952420078215
+    m_ClipIn: 0
+    m_Asset: {fileID: -9174401267250022779}
+    m_Duration: 0.36666666666666514
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: -7650029625562811746}
+    m_EaseInDuration: 0.5
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Subtitle_Clip
   m_Markers:
     m_Objects: []
 --- !u!114 &-7609280107414541426
@@ -2910,7 +2976,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07cca9eeb8e6eed4a9efe8160da37440, type: 3}
   m_Name: Subtitle_Clip
   m_EditorClassIdentifier: 
-  subtitle_text: <size=30>Where am I?</size>
+  subtitle_text: Where am I?
   color: 0
   blend: 0
 --- !u!114 &-5385296616238322079
@@ -2925,8 +2991,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07cca9eeb8e6eed4a9efe8160da37440, type: 3}
   m_Name: Subtitle_Clip(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
   m_EditorClassIdentifier: 
-  subtitle_text: <color=green>i will rule this place.</color> I will be the sole
-    ruler of this place. I will prove I am the best.
+  subtitle_text: <size=-3><color=green>i will rule this place.</color> I will be
+    the sole ruler of this place. I will prove I am the best.
   color: 0
   blend: 0
 --- !u!114 &-5316730155142507383
@@ -3019,7 +3085,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07cca9eeb8e6eed4a9efe8160da37440, type: 3}
   m_Name: Subtitle_Clip(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
   m_EditorClassIdentifier: 
-  subtitle_text: <b>hahahahahahahahaha...hahahahahah...ahahahahaahahahahahaha</b>
+  subtitle_text: <size=+10><b>hahahahahahahahaha...hahahahahah...ahahahahaahahahahahaha</b>
   color: 0
   blend: 0
 --- !u!114 &-3989504611460951527
@@ -3071,7 +3137,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 10.700000000000005
+    m_Start: 11.183333333333334
     m_ClipIn: 0
     m_Asset: {fileID: -3798899599419912179}
     m_Duration: 76.06189004673311
@@ -3169,7 +3235,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07cca9eeb8e6eed4a9efe8160da37440, type: 3}
   m_Name: Subtitle_Clip(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
   m_EditorClassIdentifier: 
-  subtitle_text: Anyone who resorts to violence shall be burned<size=20>not like
+  subtitle_text: Anyone who resorts to violence shall be burned<size=-10>not like
     there is any other good things in store for you
   color: 1
   blend: 0
@@ -4244,7 +4310,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07cca9eeb8e6eed4a9efe8160da37440, type: 3}
   m_Name: Subtitle_Clip(Clone)(Clone)(Clone)(Clone)
   m_EditorClassIdentifier: 
-  subtitle_text: <size=30>I don't belong here</size>
+  subtitle_text: <size=+10>I don't belong here!!!
   color: 0
   blend: 0
 --- !u!114 &-2174834876989234483
@@ -4339,8 +4405,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07cca9eeb8e6eed4a9efe8160da37440, type: 3}
   m_Name: Subtitle_Clip(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
   m_EditorClassIdentifier: 
-  subtitle_text: <b>hahahahahahahahaha...hahahahahah...ahahahahaahahahahahaha</b>
-  color: 4
+  subtitle_text: <size=+10><b>hahahahahahahahaha...hahahahahah...ahahahahaahahahahahaha</b>
+  color: 0
   blend: 0
 --- !u!114 &-1352868206545770695
 MonoBehaviour:
@@ -4457,7 +4523,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07cca9eeb8e6eed4a9efe8160da37440, type: 3}
   m_Name: Subtitle_Clip(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
   m_EditorClassIdentifier: 
-  subtitle_text: <size=20> I require some time to connect all the setup,and it should
+  subtitle_text: <size=-10> I require some time to connect all the setup,and it should
     buy me the time</size> If you can, then I will know you are even capable,
   color: 1
   blend: 0
@@ -4521,7 +4587,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07cca9eeb8e6eed4a9efe8160da37440, type: 3}
   m_Name: Subtitle_Clip(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
   m_EditorClassIdentifier: 
-  subtitle_text: <size=30>There will be just me and no one else..</size>
+  subtitle_text: <size=+10>There will be just me and no one else..</size>
   color: 0
   blend: 0
 --- !u!114 &1237256230769534161
@@ -4551,7 +4617,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07cca9eeb8e6eed4a9efe8160da37440, type: 3}
   m_Name: Subtitle_Clip(Clone)(Clone)(Clone)(Clone)
   m_EditorClassIdentifier: 
-  subtitle_text: <size=30>What's going on?</size>
+  subtitle_text: What's going on?
   color: 0
   blend: 0
 --- !u!114 &1580416352549732798
@@ -4566,7 +4632,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07cca9eeb8e6eed4a9efe8160da37440, type: 3}
   m_Name: Subtitle_Clip(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
   m_EditorClassIdentifier: 
-  subtitle_text: <size=20> A perfect specimen to try my newest weapon...good</size>
+  subtitle_text: <size=-10> A perfect specimen to try my newest weapon...good</size>
     OK, let's see if you can even manage to get to me
   color: 1
   blend: 0
@@ -4731,7 +4797,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07cca9eeb8e6eed4a9efe8160da37440, type: 3}
   m_Name: Subtitle_Clip(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
   m_EditorClassIdentifier: 
-  subtitle_text: <b>hahahahahahahahaha...hahahahahah...ahahahahaahahahahahaha</b>
+  subtitle_text: <size=+10><b>hahahahahahahahaha...hahahahahah...ahahahahaahahahahahaha</b>
   color: 4
   blend: 0
 --- !u!114 &2971903246838125614
@@ -4746,7 +4812,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07cca9eeb8e6eed4a9efe8160da37440, type: 3}
   m_Name: Subtitle_Clip(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
   m_EditorClassIdentifier: 
-  subtitle_text: <color=green>perished
+  subtitle_text: <size=+10><color=green>perished
   color: 0
   blend: 0
 --- !u!114 &3007246253214417844
@@ -4761,7 +4827,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07cca9eeb8e6eed4a9efe8160da37440, type: 3}
   m_Name: Subtitle_Clip(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
   m_EditorClassIdentifier: 
-  subtitle_text: <color=green>Destroy <b>everyone</b>
+  subtitle_text: <color=red>Destroy <b>everyone</b>
   color: 0
   blend: 0
 --- !u!114 &3060612322927593770
@@ -4824,7 +4890,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07cca9eeb8e6eed4a9efe8160da37440, type: 3}
   m_Name: Subtitle_Clip(Clone)(Clone)
   m_EditorClassIdentifier: 
-  subtitle_text: <size=30>What is this place?</size>
+  subtitle_text: What is this place?
   color: 0
   blend: 0
 --- !u!114 &4239213617712040217
@@ -4911,7 +4977,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07cca9eeb8e6eed4a9efe8160da37440, type: 3}
   m_Name: Subtitle_Clip(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
   m_EditorClassIdentifier: 
-  subtitle_text: <size=40>Just ME!!!.</size>
+  subtitle_text: <size=+20>Just ME!!!.</size>
   color: 0
   blend: 0
 --- !u!74 &5042346798740133988
@@ -7308,7 +7374,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07cca9eeb8e6eed4a9efe8160da37440, type: 3}
   m_Name: Subtitle_Clip(Clone)(Clone)
   m_EditorClassIdentifier: 
-  subtitle_text: You have killed so many people to prove you are the best.Clearly
+  subtitle_text: <size=-2>You have killed so many people to prove you are the best.Clearly
     you belong in here and deserve to suffer for eternity.
   color: 1
   blend: 0
@@ -7355,8 +7421,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07cca9eeb8e6eed4a9efe8160da37440, type: 3}
   m_Name: Subtitle_Clip(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
   m_EditorClassIdentifier: 
-  subtitle_text: <b>hahahahahahahahaha...hahahahahah...ahahahahaahahahahahaha</b>
-  color: 0
+  subtitle_text: <size=+10><b>hahahahahahahahaha...hahahahahah...ahahahahaahahahahahaha</b>
+  color: 2
   blend: 0
 --- !u!114 &6151849152196633314
 MonoBehaviour:
@@ -7487,8 +7553,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07cca9eeb8e6eed4a9efe8160da37440, type: 3}
   m_Name: Subtitle_Clip(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
   m_EditorClassIdentifier: 
-  subtitle_text: <b>hahahahahahahahaha...hahahahahah...ahahahahaahahahahahaha</b>
-  color: 0
+  subtitle_text: <size=+10><b>hahahahahahahahaha...hahahahahah...ahahahahaahahahahahaha</b>
+  color: 4
   blend: 0
 --- !u!114 &6890434111829374008
 MonoBehaviour:
