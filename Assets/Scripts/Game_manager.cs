@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using System;
 using UnityEngine.Playables;
 using UnityEngine.Timeline;
@@ -24,8 +22,7 @@ public class Game_manager : MonoBehaviour
 
     private void Instantiation()
     {
-        //GameObject player= (GameObject)Instantiate(Resources.Load(Constants_used.Player), transform.position, Quaternion.identity);
-        _player = (GameObject)Instantiate(Resources.Load("Player1"), transform.position, Quaternion.identity);
+        _player= (GameObject)Instantiate(Resources.Load(Constants_used.Player), transform.position, Quaternion.identity);
         _player.transform.parent = this.transform;
         Player = _player.GetComponentInChildren<Player>();
         Instantiate(Resources.Load(Constants_used.UI), transform.position, Quaternion.identity);

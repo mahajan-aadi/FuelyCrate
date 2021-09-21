@@ -1,8 +1,5 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.Timeline;
-using TMPro;
 using UnityEngine.UI;
 using UnityEngine.Playables;
 

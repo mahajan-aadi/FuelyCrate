@@ -1,8 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public static class Constants_used
+﻿public static class Constants_used
 {
     static int _score = 0;
     static int _life = 100;

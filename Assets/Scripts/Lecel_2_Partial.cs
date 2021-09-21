@@ -1,7 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
+﻿using UnityEngine;
 public class Lecel_2_Partial : MonoBehaviour
 {
     AudioSource AudioSource;

@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityStandardAssets.CrossPlatformInput;
 
 public class laser : MonoBehaviour
@@ -23,10 +21,7 @@ public class laser : MonoBehaviour
         if (Input.GetKey(KeyCode.X)){ _BUL.Play(); }
         if(Input.GetKeyUp(KeyCode.X)){ _BUL.Stop(); }
     }
-    void disable_particles()
-    {
-        _BUL.Stop();
-    }
+
     void bullets_check(bool left)
     {
         bullets = _BUL;

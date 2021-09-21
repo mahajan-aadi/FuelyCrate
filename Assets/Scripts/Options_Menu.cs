@@ -1,5 +1,4 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
@@ -71,12 +70,10 @@ public class Options_Menu : MonoBehaviour
     }
     public void reload_scene() 
     {
-        Animator.SetTrigger(animator_trigger);
-        StartCoroutine(Level_load(Constants_used.level));
+        StartCoroutine(Reload_Level(Constants_used.level));
     }
     public void Shop() 
     {
-        Animator.SetTrigger(animator_trigger);
         StartCoroutine(Shop_Load()); 
     }
     public void Quit_Game()
@@ -95,8 +92,17 @@ public class Options_Menu : MonoBehaviour
         yield return new WaitForSeconds(LEVEL_TIME);
         SceneManager.LoadScene(level);
     }
+    IEnumerator Reload_Level(int level)
+    {
+        yield return new WaitForSeconds(1f);
+        Animator.SetTrigger(animator_trigger);
+        yield return new WaitForSeconds(LEVEL_TIME);
+        SceneManager.LoadScene(level);
+    }
     IEnumerator Shop_Load()
     {
+        yield return new WaitForSeconds(1f);
+        Animator.SetTrigger(animator_trigger);
         yield return new WaitForSeconds(LEVEL_TIME);
         SceneManager.LoadScene(SHOP);
     }
