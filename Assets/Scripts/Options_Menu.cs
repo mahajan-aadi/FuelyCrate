@@ -28,6 +28,7 @@ public class Options_Menu : MonoBehaviour
     {
         Constants_used.Player = Constants_used.player2;
         Constants_used.get_max_life = 300;
+        Constants_used.get_life = 300;
         Constants_used.shield = false;
         next_scene(); 
     }
