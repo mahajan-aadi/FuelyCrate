@@ -25,4 +25,8 @@ public abstract class Enemy : MonoBehaviour
         }
     }
     protected void event_start() { event_enemy_collision?.Invoke(_hit); }
+    private void OnDestroy()
+    {
+        FindObjectOfType<Player_UI>()?.remove_life_event_handler(this);
+    }
 }

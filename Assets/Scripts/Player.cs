@@ -20,7 +20,11 @@ public class Player : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.E)){ _game_Manager.pause_check(); }
+        if (Input.GetKeyDown(KeyCode.E))
+        {
+            _game_Manager.pause_check(); 
+            Cursor.visible = true;
+        }
         if (Constants_used.Pause) { return; }
         if (_Animation) { return; }
          _getmovement();

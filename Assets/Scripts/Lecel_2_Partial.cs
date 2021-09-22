@@ -33,4 +33,10 @@ public class Lecel_2_Partial : MonoBehaviour
         AudioSource.clip = main;
         AudioSource.Play();
     }
+    private void OnDestroy()
+    {
+        time.event_time_up -= Play_Vain;
+        final_fight.event_dead -= Play_Vain;
+        Game_manager.event_instantiate -= Play_Main;
+    }
 }

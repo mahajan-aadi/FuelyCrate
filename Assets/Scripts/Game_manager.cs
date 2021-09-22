@@ -15,11 +15,21 @@ public class Game_manager : MonoBehaviour
     Player Player;
     private void Awake()
     {
+        Cursor.visible = false;
         Instantiation();
         event_set_up();
         if (cutscene) { timeline_event_setup(); animation_start(playableDirector); }
     }
-
+    private void OnDestroy()
+    {
+        event_Pause -= pause;
+        event_Resume -= resume;
+        if (cutscene)
+        {
+            playableDirector.stopped -= animation_stop;
+            playableDirector.played -= animation_start;
+        }
+    }
     private void Instantiation()
     {
         _player= (GameObject)Instantiate(Resources.Load(Constants_used.Player), transform.position, Quaternion.identity);
@@ -28,6 +38,7 @@ public class Game_manager : MonoBehaviour
         Instantiate(Resources.Load(Constants_used.UI), transform.position, Quaternion.identity);
         _pause_menu = (GameObject)Instantiate(Resources.Load(Constants_used.Pause_Menu), transform.position, Quaternion.identity);
         _pause_menu.transform.parent = this.transform;
+        Constants_used.Shield_using = false;
     }
 
     private void Start()
@@ -51,6 +62,7 @@ public class Game_manager : MonoBehaviour
     }
     void pause()
     {
+        print(_pause_menu);
         _pause_menu.SetActive(true);
         Time.timeScale = 0f;
         Constants_used.Pause = true;

@@ -6420,7 +6420,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 463937784, guid: 9abbdaef6867b0f46b9ad1c6085b3cff, type: 3}
       propertyPath: move_x.x
-      value: 2
+      value: 2.5
       objectReference: {fileID: 0}
     - target: {fileID: 463937784, guid: 9abbdaef6867b0f46b9ad1c6085b3cff, type: 3}
       propertyPath: cycles_x
@@ -6434,7 +6434,7 @@ PrefabInstance:
     - target: {fileID: 3411517810717549206, guid: 9abbdaef6867b0f46b9ad1c6085b3cff,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 22.288803
+      value: 21.31
       objectReference: {fileID: 0}
     - target: {fileID: 3411517810717549206, guid: 9abbdaef6867b0f46b9ad1c6085b3cff,
         type: 3}

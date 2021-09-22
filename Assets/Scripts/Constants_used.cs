@@ -28,5 +28,6 @@
     public static string Player { get; set; }
     public static bool shield { get; set; }
     public static bool Pause { get; set; }
+    public static bool Shield_using { get; set; }
     public static int level { get; set; }
 }

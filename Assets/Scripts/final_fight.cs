@@ -60,7 +60,8 @@ public class final_fight : Enemy
         { 
             float dir = Vector2.Dot(transform.right, collision.transform.right);
             collision.gameObject.GetComponent<Rigidbody2D>().AddForce(Vector2.left * dir * 1000);
-            event_start();
+            if (!Constants_used.Shield_using)
+                event_start();
         }
     }
     private void OnParticleCollision(GameObject other)

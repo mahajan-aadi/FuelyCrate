@@ -28,6 +28,10 @@ public class Player_UI : Life_UI
     {
         enemy.event_enemy_collision += life_check_update;
     }
+    public void remove_life_event_handler(Enemy enemy)
+    {
+        enemy.event_enemy_collision -= life_check_update;
+    }
     void life_check_update(int increase)
     {
         if (_life_left < increase) { event_player_dead?.Invoke(); }
@@ -43,15 +47,24 @@ public class Player_UI : Life_UI
     {
         collectables.event_increase_points += update_score;
     }
+    public static void remove_score_event_handler(collectables collectables)
+    {
+        collectables.event_increase_points -= update_score;
+    }
     static void update_score(int score)
     {
+        if (!_score_text) { return; }
         _score += score;
         _score_text.text = Constants_used.score_prefix + _score.ToString();
     }
     private void OnDestroy()
     {
-        Constants_used.get_score += _score;
+        Constants_used.get_score = _score;
         Constants_used.get_life = _life_left;
+        event_player_dead -= Dead;
+        Options_Menu.event_shield_cost -= update_score;
+        Options_Menu.event_health_cost -= update_score;
+        Options_Menu.event_health_cost -= update_life;
     }
     private void Dead()
     {

@@ -98,7 +98,7 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
-  m_UseShadowmask: 1
+  m_UseShadowmask: 0
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -799,7 +799,7 @@ MonoBehaviour:
     \u2013 Handel/Halvorsen \nKassia\r\nG. F.Handel-Suite No. 7, g minor, HWV 432\nCherryMochi
     - Tokyo Dark\n\nElton John\n\nBrackeys\n[youtube.com/user/Brackeys]\nGameDev.TV\n[udemy.com/course/unitycourse]\nUniversity
     of Colorado System\n[coursera.org/learn/\nintermediate-object-oriented-\nprogramming-unity-games]\nMister
-    Taft Creates\n[youtube.com/channel/\nUCZczqDvepgNqy80gTMGnUXw]\nGame Dev Guide\n[youtube.com/channel/\nUCR35rzd4LLomtQout93gi0w]\nUnity\n[https://www.youtube.com/user/Unity3D]\nZyger\n[youtube.com/channel/\nUCvYUyKg7wDj760PippmWhig]\nJimmy
+    Taft Creates\n[youtube.com/channel/\nUCZczqDvepgNqy80gTMGnUXw]\nGame Dev Guide\n[youtube.com/channel/\nUCR35rzd4LLomtQout93gi0w]\nUnity\n[https://www.youtube.com/user/Unity3D]\nsamyam\n[https://www.youtube.com/channel/\nUCCkLMimnKzKbOQYxPDSYXFw]\nJimmy
     Vegas \n[youtube.com/channel/\nUCRMXHQ2rJ9_0CHS7mhL7erg]\nJason Weimann\n[youtube.com/channel/\nUCX_b3NNQN5bzExm-22-NVVg]\nOne
     Wheel Studio\n[youtube.com/channel/\nUCkr9CPPqT9VWUjkpo3HcACg]\nLost Relic Games\n[youtube.com/user/MegaStegz]\nProgramming
     with Mosh \n[youtube.com/user/programmingwithmosh]\nIAmTimCorey\n[youtube.com/user/IAmTimCorey]\nkudvenkat

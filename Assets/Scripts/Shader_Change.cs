@@ -60,4 +60,9 @@ public class Shader_Change : MonoBehaviour
         lost();
         StartCoroutine(Lose_effect());
     }
+    private void OnDestroy()
+    {
+        Player_UI.event_player_dead -= lose_level;
+        Exit.Event_Level_finish -= finish_level;
+    }
 }

@@ -9,14 +9,16 @@ public class water : Enemy
         {
             float dir = Vector2.Dot(transform.right, collision.transform.right);
             collision.gameObject.GetComponent<Rigidbody2D>().AddForce(Vector2.left * dir * 1000);
-            event_start();
+            if(!Constants_used.Shield_using)
+                event_start();
             StartCoroutine(harm());
         }
     }
 
     IEnumerator harm()
     {
-        event_start();
+        if (!Constants_used.Shield_using)
+            event_start();
         yield return new WaitForSeconds(1f);
         StartCoroutine(harm());
     }

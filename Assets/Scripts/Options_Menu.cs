@@ -86,6 +86,7 @@ public class Options_Menu : MonoBehaviour
         Constants_used.get_score = 0;
         Animator.SetTrigger(animator_trigger);
         StartCoroutine(Level_load(0));
+        Cursor.visible = true;
     }
     IEnumerator Level_load(int level)
     {
@@ -105,5 +106,11 @@ public class Options_Menu : MonoBehaviour
         Animator.SetTrigger(animator_trigger);
         yield return new WaitForSeconds(LEVEL_TIME);
         SceneManager.LoadScene(SHOP);
+        Cursor.visible = true;
+    }
+    private void OnDestroy()
+    {
+        Player_UI.event_player_dead -= reload_scene;
+
     }
 }

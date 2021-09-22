@@ -14,4 +14,9 @@ public class Enemy_UI : Life_UI
     {
         Destroy(this.gameObject);
     }
+    private void OnDestroy()
+    {
+        final_fight.event_dead -= Destroy;
+        final_fight.event_hurt -= update_life;
+    }
 }

@@ -66,4 +66,9 @@ public class time : MonoBehaviour
         time_text.text = time_min + ":" + time_sec;
     }
     void destoy() { Destroy(this.gameObject); }
+    private void OnDestroy()
+    {
+        event_time_up -= destoy;
+        Game_manager.event_instantiate -= Starting;
+    }
 }

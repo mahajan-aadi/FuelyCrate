@@ -18,4 +18,8 @@ public class collectables : MonoBehaviour
             Destroy(this.gameObject);
         }
     }
+    private void OnDestroy()
+    {
+        Player_UI.remove_score_event_handler(this);
+    }
 }

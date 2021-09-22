@@ -43,4 +43,9 @@ public class final_enemy : moving_objects
         Destroy(_weapon_holder);
         Destroy(this.gameObject);
     }
+    private void OnDestroy()
+    {
+        time.event_change_height -= change_height;
+        time.event_time_up -= destroy;
+    }
 }
