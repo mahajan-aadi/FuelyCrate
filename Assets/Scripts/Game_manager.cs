@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using System;
 using UnityEngine.Playables;
 using UnityEngine.Timeline;
@@ -32,12 +33,17 @@ public class Game_manager : MonoBehaviour
     }
     private void Instantiation()
     {
-        _player= (GameObject)Instantiate(Resources.Load(Constants_used.Player), transform.position, Quaternion.identity);
+        //_player= (GameObject)Instantiate(Resources.Load(Constants_used.Player), transform.position, Quaternion.identity);
+        _player= (GameObject)Instantiate(Resources.Load(Constants_used.player1), transform.position, Quaternion.identity);
         _player.transform.parent = this.transform;
         Player = _player.GetComponentInChildren<Player>();
         Instantiate(Resources.Load(Constants_used.UI), transform.position, Quaternion.identity);
         _pause_menu = (GameObject)Instantiate(Resources.Load(Constants_used.Pause_Menu), transform.position, Quaternion.identity);
+        Button _button = _pause_menu.GetComponentInChildren<Button>();
+        _button.onClick.AddListener(FindObjectOfType<Options_Menu>().Main_Menu);
         _pause_menu.transform.parent = this.transform;
+       // UnityEditor.Events.UnityEventTools.AddPersistentListener()), 
+        _pause_menu.SetActive(false);
         Constants_used.Shield_using = false;
     }
 
@@ -62,7 +68,6 @@ public class Game_manager : MonoBehaviour
     }
     void pause()
     {
-        print(_pause_menu);
         _pause_menu.SetActive(true);
         Time.timeScale = 0f;
         Constants_used.Pause = true;

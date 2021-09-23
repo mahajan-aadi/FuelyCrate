@@ -878,7 +878,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Press "E" to pause the game.
+  m_text: Press "P" to pause the game.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 879010038ad9f3548bc93e9d2031efc1, type: 2}
   m_sharedMaterial: {fileID: -5015541627767775712, guid: 879010038ad9f3548bc93e9d2031efc1,

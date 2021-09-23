@@ -209,6 +209,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: {fileID: 0}
   shield: {fileID: 0}
+  pause: {fileID: 0}
 --- !u!225 &1080580647
 CanvasGroup:
   m_ObjectHideFlags: 0

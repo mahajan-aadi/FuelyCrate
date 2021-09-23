@@ -131,7 +131,7 @@ GameObject:
   m_Component:
   - component: {fileID: 22107036}
   m_Layer: 0
-  m_Name: Health
+  m_Name: Health_Pack
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -202,6 +202,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1718343094131217486, guid: 251577f345f566e4498fa19735c7e280,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5117033986823896440, guid: 251577f345f566e4498fa19735c7e280,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -471,10 +476,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Gives you 10% of health in increase.
+  m_Text: 'Gives you 10% of health in increase when pressed "E" key.
 
-    Good if you are dying, else
-    means %$#$@!%'
+    Good if
+    you are dying, else means %$#$@!%'
 --- !u!222 &318217334
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1251,7 +1256,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 131462560}
-        m_MethodName: increase_heath
+        m_MethodName: health_button
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

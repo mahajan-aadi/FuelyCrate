@@ -14,7 +14,7 @@ public class collectables : MonoBehaviour
     {
         if (collision.GetComponent<Player>() != null)
         {
-            event_increase_points?.Invoke(_points);
+            event_increase_points?.Invoke(-1 * _points);
             Destroy(this.gameObject);
         }
     }

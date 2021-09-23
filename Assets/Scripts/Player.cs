@@ -10,22 +10,28 @@ public class Player : MonoBehaviour
     [SerializeField] float _climb_speed = 3;
     bool _Animation = false;
     Game_manager _game_Manager;
+    Player_UI _Player_UI;
     void Start()
     {
         _Rigidbody2D = GetComponent<Rigidbody2D>();
         _animator = transform.parent.parent.GetComponent<Animation_controller>();
         _feet = GetComponent<BoxCollider2D>();
         _game_Manager = GetComponentInParent<Game_manager>();
+        _Player_UI = FindObjectOfType<Player_UI>();
     }
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.E))
+        if (Input.GetKeyDown(KeyCode.P))
         {
             _game_Manager.pause_check(); 
             Cursor.visible = true;
         }
         if (Constants_used.Pause) { return; }
+        if (Input.GetKeyDown(KeyCode.E))
+        {
+            _Player_UI.increase_heath();
+        }
         if (_Animation) { return; }
          _getmovement();
         _jump();
