@@ -33,7 +33,6 @@
     public static string HEALTH_PACKS = "HEALTH_PACKS";
 
 
-    //public static int get_score { get { return _score; } set { _score = value; } }
     public static int get_score { get { return _score; } set { _score = value; } }
 
     public static int get_health_pack { get { return _health_packs; } set { _health_packs = value; } }

@@ -34,7 +34,7 @@ public class Game_manager : MonoBehaviour
     private void Instantiation()
     {
         //_player= (GameObject)Instantiate(Resources.Load(Constants_used.Player), transform.position, Quaternion.identity);
-        _player= (GameObject)Instantiate(Resources.Load(Constants_used.player1), transform.position, Quaternion.identity);
+        _player= (GameObject)Instantiate(Resources.Load(Constants_used.player2), transform.position, Quaternion.identity);
         _player.transform.parent = this.transform;
         Player = _player.GetComponentInChildren<Player>();
         Instantiate(Resources.Load(Constants_used.UI), transform.position, Quaternion.identity);
